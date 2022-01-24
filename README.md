@@ -45,8 +45,9 @@
 
 #### Инструменты для работы:
 * [Texthandler.com](https://ru.texthandler.com/text-tools/letter-case-converter/)
-* [Bootstrap 5.1.1 Navbar Multi Level and Mega Menu](https://codepen.io/typo3-freelancer/pen/poEvyGj)
 * [jsoneditoronline](https://jsoneditoronline.org/#)
+#### Использованные готовые решения:
+* [Bootstrap 5.1.1 Navbar Multi Level and Mega Menu](https://codepen.io/typo3-freelancer/pen/poEvyGj)
 * [Tooltip Magic](https://codepen.io/tutsplus/pen/WROvdG)
 * [Footer](https://codepen.io/idesignsmf/pen/WgjXeo)
 
