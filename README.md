@@ -42,10 +42,10 @@
 * [Paragraph77.net](https://paragraph77.net/)
 * [Eslfast.com](https://www.eslfast.com/)
 
-
 #### Инструменты для работы:
 * [Texthandler.com](https://ru.texthandler.com/text-tools/letter-case-converter/)
-* [jsoneditoronline](https://jsoneditoronline.org/#)
+* [Camelcase](https://textedit.tools/camelcase)
+* [Jsoneditoronline](https://jsoneditoronline.org/#)
 #### Использованные готовые решения:
 * [Bootstrap 5.1.1 Navbar Multi Level and Mega Menu](https://codepen.io/typo3-freelancer/pen/poEvyGj)
 * [Tooltip Magic](https://codepen.io/tutsplus/pen/WROvdG)
