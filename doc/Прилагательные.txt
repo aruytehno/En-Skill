@@ -1,0 +1,244 @@
+2. Прилагательные
+
+Цвет
+red - красный
+orange - оранжевый
+yellow - желтый
+green - зеленый
+blue - синий
+violet - фиолетовый
+black - черный
+white - белый
+brown - коричневый
+grey - серый
+dark - темный
+light - светлый
+bright - яркий
+pale - бледный
+
+Размер
+huge - огромный
+big - большой
+large - большой
+medium - средний
+small - маленький
+long - длинный
+short - короткий
+wide - широкий
+narrow - узкий
+high - высокий
+tall - высокий
+low - низкий
+deep - глубокий
+shallow - мелкий (о глубине)
+thick - толстый
+thin - тонкий
+far - далекий
+near - близкий
+
+Форма
+flat - плоский
+straight - прямой
+curved - кривой
+square - квадратный
+oval - овальный
+round - круглый
+
+
+Температура
+hot - горячий
+warm - теплый
+cool - прохладный
+cold - холодный
+
+Влажность
+dry - сухой
+wet - мокрый
+humid - влажный
+
+На вкyc
+tasty - вкусный
+tasteless - безвкусный
+sour - кислый
+salty - соленый
+bitter - горький
+sweet - сладкий
+strong - крепкий
+spicy - острый
+
+На слyx
+loud - громкий
+quiet - тихий
+noisy - шумный
+sharp - резкий
+pleasant - приятный
+
+На запах
+aromatic - ароматный
+specific - специфический
+smelly - неприятно пахнущий
+
+Характеристики
+long - долгий
+short - короткий
+fast - быстрый
+quick - быстрый
+slow - медленный
+early - ранний
+late - поздний
+old - старый
+new - новый
+young - молодой
+adult - взрослый
+
+
+Стадии
+ancient - древний
+past - прошлый
+present - настоящий
+future - будущий
+previous - предыдущий
+recent - недавний
+next - следующий
+following - следующий
+the first - первый
+the last - последний
+
+Характер действия / частота
+constant - постоянный
+continuous - длящийся
+uninterrupted - непрерывный
+infrequent - нечастый
+frequent - частый
+sudden - внезапный
+urgent - срочный
+usual - обычный
+
+Настроение
+calm - спокойный
+angry - злой
+sad - печальный
+lonely - одинокий
+happy - счастливый
+
+Оценка и описание чего-то / кого-то
+good - хороший
+bad - плохой
+interesting - интересный
+boring - надоедливый
+pleasant - приятный
+unpleasant - неприятный
+excellent - отличный
+perfect - совершенный
+abominable - отвратительный
+beautiful - красивый
+nice - милый
+attractive - привлекательный
+kind - добрый
+hostile - враждебный
+gentle - вежливый
+polite - вежливый
+rude - грубый
+generous - щедрый
+excited - взволнованный
+frightened - испуганный
+astonished - удивленный
+angry - сердитый
+sensitive - чувствительный
+indifferent - безразличный
+hard-hearted - черствый
+good-hearted - добросердечный
+
+Моральные качества
+decent - приличный
+honest - честный
+fair - честный /справедливый
+sincere - искренний
+dishonest - нечестный
+innocent - невиновный
+guilty - виновный
+criminal - преступный
+
+О человеке
+talkative - разговорчивый
+sociable - общительный
+disobedient - непослушный
+strict - строгий
+mild - мягкий
+reliable - надежный
+brave - храбрый
+reasonable - разумный
+cautious - осторожный
+clever - умный
+intelligent - умный, знающий
+talented - талантливый
+silly - глупый
+stupid - глупый, тупой
+mad - сумасшедший
+crazy - сумасшедший / чокнутый
+diligent - прилежный / усердный
+lazy - ленивый
+
+Качество
+high-quality - качественный
+similar - похожий
+different - различный
+the same - тот же самый
+main - главный
+important - важный
+insignificant - незначительный
+
+Категории
+necessary - необходимый
+possible - возможный
+desirable - желательный
+occasional - случайный
+
+Соответствие
+correct - правильный
+wrong - неправильный
+absurd - абсурдный
+legal - законный
+illegal - незаконный
+standard - стандартный
+suitable - подходящий
+appropriate - подходящий
+acceptable - приемлемый
+satisfactory - удовлетворительный
+advantageous - выгодный
+disadvantageous - невыгодный
+useful - полезный
+useless - бесполезный
+harmful - вредный
+harmless - безвредный
+cheap - дешевый
+expensive - дорогой
+free of charge - бесплатный
+
+Здоровье
+healthy - здоровый
+sick - больной
+ill - больной
+strong - сильный
+weak - слабый
+tired - усталый
+
+Материальное положение
+rich - богатый
+рооr - бедный
+
+Другое
+ready - готовый
+convenient - удобный
+comfortable - удобный
+free - свободный
+vacant - свободный / вакантный
+busy - занятый (чем-либо)
+occupied - занятый (о месте)
+clean - чистый
+dirty - грязный
+hungry - голодный
+thirsty - жаждущий
+average - средний
+sufficient - достаточный
+full - полный
