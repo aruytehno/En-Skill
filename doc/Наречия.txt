@@ -1,80 +1,80 @@
 4. Наречия
 
 Вопросительные
-how - как
-how many - сколько
-how much - сколько
-where - где
-когда - when
-почему - why
+How - Как
+How Many - Сколько
+How Much - Сколько
+Where - Где
+Когда - When
+Почему - Why
 
 Места
-where - где
-here - здесь
-there - там
-somewhere - где-нибудь
-anywhere - где-нибудь
-everywhere - везде
-nowhere - нигде
-inside - внутри
-outside - снаружи
-beside - рядом
-above - наверху
-below - внизу
-in front of - впереди
-ahead - впереди / вперед
-behind - сзади
-high - высоко
-low - низко
-far - далеко
-near - близко
+Where - Где
+Here - Здесь
+There - Там
+Somewhere - Где-нибудь
+Anywhere - Где-нибудь
+Everywhere - Везде
+Nowhere - Нигде
+Inside - Внутри
+Outside - Снаружи
+Beside - Рядом
+Above - Наверху
+Below - Внизу
+In Front Of - Впереди
+Ahead - Впереди / Вперед
+Behind - Сзади
+High - Высоко
+Low - Низко
+Far - Далеко
+Near - Близко
 
 Направления
-назад - back, backwards
-вперед - ahead, towards
-up - вверх
-down - вниз
-sideways - в сторону
-направо - to the right
-налево - to the left
-вокруг - around
+Назад - Back, Backwards
+Вперед - Ahead, Towards
+Up - Вверх
+Down - Вниз
+Sideways - В Сторону
+Направо - To The Right
+Налево - To The Left
+Вокруг - Around
 
 Времени
-now - сейчас
-lately - в последнее время
-recently - недавно
-just - только что
-on the eve - накануне
-once - однажды
-before - раньше
-long ago - давно
-then - тогда
-afterwards - после
-immediately - немедленно
-soon - скоро
-today - сегодня
-tonight - сегодня вечером
-tomorrow - завтра
-the day after tomorrow - послезавтра
-yesterday - вчера
-the day before yesterday - позавчера
-still - все еще
-already - уже
-yet - уже
+Now - Сейчас
+Lately - В Последнее Время
+Recently - Недавно
+Just - Только Что
+On The Eve - Накануне
+Once - Однажды
+Before - Раньше
+Long Ago - Давно
+Then - Тогда
+Afterwards - После
+Immediately - Немедленно
+Soon - Скоро
+Today - Сегодня
+Tonight - Сегодня Вечером
+Tomorrow - Завтра
+The Day After Tomorrow - Послезавтра
+Yesterday - Вчера
+The Day Before Yesterday - Позавчера
+Still - Все Еще
+Already - Уже
+Yet - Уже
 
-Повторения и частотности
-always - всегда
-often - часто
-frequently - часто
-constantly - постоянно
-usually - обычно
-seldom - редко
-sometimes - иногда
-never - никогда
+Повторения И Частотности
+Always - Всегда
+Often - Часто
+Frequently - Часто
+Constantly - Постоянно
+Usually - Обычно
+Seldom - Редко
+Sometimes - Иногда
+Never - Никогда
 
-Наречия для соединения предложений
-поэтому - that’s why
-однако - however
-тем не менее - nevertheless
-тем временем - meanwhile
-в противном случае - otherwise
+Наречия Для Соединения Предложений
+Поэтому - That’s Why
+Однако - However
+Тем Не Менее - Nevertheless
+Тем Временем - Meanwhile
+В Противном Случае - Otherwise
