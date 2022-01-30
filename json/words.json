@@ -1194,6 +1194,30 @@
       ]
     }
   ],
+  "sciences": [
+    {
+      "ru": [
+        "Математика",
+        "Биология",
+        "Физика",
+        "Литература",
+        "География",
+        "История",
+        "Химия"
+      ]
+    },
+    {
+      "en": [
+        "Mathematics",
+        "Biology",
+        "Physics",
+        "Literature",
+        "Geography",
+        "History",
+        "Chemistry"
+      ]
+    }
+  ],
   "months": [
     {
       "ru": [

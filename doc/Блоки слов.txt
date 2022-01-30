@@ -9,9 +9,20 @@ var baseWeatherRu = ["солнечно", "дождливо", "снежно", "в
 
 ["baseball", "basketball", "football", "hockey", "volleyball", "rowing", "swimming", "boxing", "car racing", "golf"];
 ["бейсбол", "баскетбол", "футбол", "волейбол", "гребля", "плавание", "бокс", "гонки на машинах", "гольф"];
- 
-["mathematics", "biology", "physics", "literature", "geography", "history", "chemistry", "music", "drawing", "physical education"];
-["математика", "биология", "физика", "литература", "география", "история", "химия", "музыка", "рисование", "физкультура"];
+
+   "sciences": [
+     {
+       "ru": [
+"математика", "биология", "физика", "литература", "география", "история", "химия", "музыка", "рисование", "физкультура"
+      ]
+    },
+    {
+      "en": [
+      "mathematics", "biology", "physics", "literature", "geography", "history", "chemistry", "music", "drawing", "physical education"
+
+      ]
+    }
+  ],
 
 ["cow", "horse", "sheep", "cat", "dog", "pig", "mouse", "rat", "goat", "bull"];
 ["корова", "лошадь", "овца", "кошка", "собака", "свинья", "мышь", "крыса", "козел", "бык"]; 
