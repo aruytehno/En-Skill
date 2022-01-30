@@ -604,26 +604,46 @@
 "Wine"
 
 Сладости
-Sweets - Сладости
-Chocolate - Шоколад
-Biscuit - Печенье
-Cake - Торт /пирожное
-Pie - Пирог
-Jam - Варенье
-Sugar - Caxap
-Honey - Мёд
+"Сладости",
+"Шоколад",
+"Печенье",
+"Торт /пирожное",
+"Пирог",
+"Варенье",
+"Caxap",
+"Мёд"
+
+"Sweets",
+"Chocolate",
+"Biscuit",
+"Cake",
+"Pie",
+"Jam",
+"Sugar",
+"Honey"
 
 Продукты Питания
-Butcher’s - Мясной Магазин
-Greengrocer’s - Овощной Магазин
-Dairy - Молочный Магазин
-Sausage - Колбаса
-Cheese - Сыр
-Fish - Рыба
-Canned Goods - Консервы
-Butter - Сливочное Масло
-Vegetable Oil - Растительное Масло
-Bread - Хлеб
+"Мясной Магазин",
+"Овощной Магазин",
+"Молочный Магазин",
+"Колбаса",
+"Сыр",
+"Рыба",
+"Консервы",
+"Сливочное Масло",
+"Растительное Масло",
+"Хлеб"
+
+"Butcher’s",
+"Greengrocer’s",
+"Dairy",
+"Sausage",
+"Cheese",
+"Fish",
+"Canned Goods",
+"Butter",
+"Vegetable Oil",
+"Bread"
 
 Эмоции
 Emotion - Эмоция
