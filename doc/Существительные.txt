@@ -1,244 +1,652 @@
-2. Прилагательные
+1. Cуществительные
 
 Цвет
-Red - Красный
-Orange - Оранжевый
-Yellow - Желтый
-Green - Зеленый
-Blue - Синий
-Violet - Фиолетовый
-Black - Черный
-White - Белый
-Brown - Коричневый
-Grey - Серый
-Dark - Темный
-Light - Светлый
-Bright - Яркий
-Pale - Бледный
+  "colors": [
+    {
+      "ru": [
+        "Красный",
+        "Оранжевый",
+        "Желтый",
+        "Зеленый",
+        "Синий",
+        "Фиолетовый",
+        "Черный",
+        "Белый",
+        "Коричневый",
+        "Серый",
+        "Темный",
+        "Светлый",
+        "Яркий",
+        "Бледный"
+      ]
+    },
+    {
+      "en": [
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue",
+        "Violet",
+        "Black",
+        "White",
+        "Brown",
+        "Grey",
+        "Dark",
+        "Light",
+        "Bright",
+        "Pale"
+      ]
+    }
+  ],
 
 Размер
-Huge - Огромный
-Big - Большой
-Large - Большой
-Medium - Средний
-Small - Маленький
-Long - Длинный
-Short - Короткий
-Wide - Широкий
-Narrow - Узкий
-High - Высокий
-Tall - Высокий
-Low - Низкий
-Deep - Глубокий
-Shallow - Мелкий (о Глубине)
-Thick - Толстый
-Thin - Тонкий
-Far - Далекий
-Near - Близкий
+  "size": [
+    {
+      "ru": [
+"Огромный",
+"Большой",
+"Большой",
+"Средний",
+"Маленький",
+"Длинный",
+"Короткий",
+"Широкий",
+"Узкий",
+"Высокий",
+"Высокий",
+"Низкий",
+"Глубокий",
+"Мелкий" (о Глубине),
+"Толстый",
+"Тонкий",
+"Далекий",
+"Близкий"
+      ]
+    },
+    {
+      "en": [
+"Huge",
+"Big",
+"Large",
+"Medium",
+"Small",
+"Long",
+"Short",
+"Wide",
+"Narrow",
+"High",
+"Tall",
+"Low",
+"Deep",
+"Shallow",
+"Thick",
+"Thin",
+"Far",
+"Near"
+      ]
+    }
+  ],
 
 Форма
-Flat - Плоский
-Straight - Прямой
-Curved - Кривой
-Square - Квадратный
-Oval - Овальный
-Round - Круглый
-
+  "form": [
+    {
+      "ru": [
+"Плоский",
+"Прямой",
+"Кривой",
+"Квадратный",
+"Овальный",
+"Круглый"
+      ]
+    },
+    {
+      "en": [
+"Flat",
+"Straight",
+"Curved",
+"Square",
+"Oval",
+"Round"
+      ]
+    }
+  ],
 
 Температура
-Hot - Горячий
-Warm - Теплый
-Cool - Прохладный
-Cold - Холодный
+  "temperature": [
+    {
+      "ru": [
+"Горячий",
+"Теплый",
+"Прохладный",
+"Холодный"
+      ]
+    },
+    {
+      "en": [
+"Hot",
+"Warm",
+"Cool",
+"Cold"
+      ]
+    }
+  ],
+
 
 Влажность
-Dry - Сухой
-Wet - Мокрый
-Humid - Влажный
+  "humidity": [
+    {
+      "ru": [
+"Dry",
+"Wet",
+"Humid"
+      ]
+    },
+    {
+      "en": [
+"Сухой",
+"Мокрый",
+"Влажный"
+      ]
+    }
+  ],
 
 На Вкyc
-Tasty - Вкусный
-Tasteless - Безвкусный
-Sour - Кислый
-Salty - Соленый
-Bitter - Горький
-Sweet - Сладкий
-Strong - Крепкий
-Spicy - Острый
+  "taste": [
+    {
+      "ru": [
+"Вкусный",
+"Безвкусный",
+"Кислый",
+"Соленый",
+"Горький",
+"Сладкий",
+"Крепкий",
+"Острый"
+      ]
+    },
+    {
+      "en": [
+"Tasty",
+"Tasteless",
+"Sour",
+"Salty",
+"Bitter",
+"Sweet",
+"Strong",
+"Spicy"
+      ]
+    }
+  ],
 
 На Слyx
-Loud - Громкий
-Quiet - Тихий
-Noisy - Шумный
-Sharp - Резкий
-Pleasant - Приятный
+  "aurally": [
+    {
+      "ru": [
+"Громкий",
+"Тихий",
+"Шумный",
+"Резкий",
+"Приятный"
+      ]
+    },
+    {
+      "en": [
+"Loud",
+"Quiet",
+"Noisy",
+"Sharp",
+"Pleasant"
+      ]
+    }
+  ],
 
 На Запах
-Aromatic - Ароматный
-Specific - Специфический
-Smelly - Неприятно Пахнущий
+  "smell": [
+    {
+      "ru": [
+"Aromatic",
+"Specific",
+"Smelly"
+      ]
+    },
+    {
+      "en": [
+"Ароматный",
+"Специфический",
+"Неприятно Пахнущий"
+      ]
+    }
+  ],
 
 Характеристики
-Long - Долгий
-Short - Короткий
-Fast - Быстрый
-Quick - Быстрый
-Slow - Медленный
-Early - Ранний
-Late - Поздний
-Old - Старый
-New - Новый
-Young - Молодой
-Adult - Взрослый
-
+  "specifications": [
+    {
+      "ru": [
+"Долгий",
+"Короткий",
+"Быстрый",
+"Быстрый",
+"Медленный",
+"Ранний",
+"Поздний",
+"Старый",
+"Новый",
+"Молодой",
+"Взрослый"
+      ]
+    },
+    {
+      "en": [
+"Long",
+"Short",
+"Fast",
+"Quick",
+"Slow",
+"Early",
+"Late",
+"Old",
+"New",
+"Young",
+"Adult"
+      ]
+    }
+  ],
 
 Стадии
-Ancient - Древний
-Past - Прошлый
-Present - Настоящий
-Future - Будущий
-Previous - Предыдущий
-Recent - Недавний
-Next - Следующий
-Following - Следующий
-The First - Первый
-The Last - Последний
+  "stages": [
+    {
+      "ru": [
+"Древний",
+"Прошлый",
+"Настоящий",
+"Будущий",
+"Предыдущий",
+"Недавний",
+"Следующий",
+"Следующий",
+"Первый",
+"Последний"
+      ]
+    },
+    {
+      "en": [
+"Ancient",
+"Past",
+"Present",
+"Future",
+"Previous",
+"Recent",
+"Next",
+"Following",
+"The First",
+"The Last"
+      ]
+    }
+  ],
 
-Характер Действия / Частота
-Constant - Постоянный
-Continuous - Длящийся
-Uninterrupted - Непрерывный
-Infrequent - Нечастый
-Frequent - Частый
-Sudden - Внезапный
-Urgent - Срочный
-Usual - Обычный
+Характер Действия/Частота
+  "natureOfAction": [
+    {
+      "ru": [
+"Постоянный",
+"Длящийся",
+"Непрерывный",
+"Нечастый",
+"Частый",
+"Внезапный",
+"Срочный",
+"Обычный"
+      ]
+    },
+    {
+      "en": [
+"Constant",
+"Continuous",
+"Uninterrupted",
+"Infrequent",
+"Frequent",
+"Sudden",
+"Urgent",
+"Usual"
+      ]
+    }
+  ],
 
 Настроение
-Calm - Спокойный
-Angry - Злой
-Sad - Печальный
-Lonely - Одинокий
-Happy - Счастливый
+  "mood": [
+    {
+      "ru": [
+"Спокойный",
+"Злой",
+"Печальный",
+"Одинокий",
+"Счастливый"
+      ]
+    },
+    {
+      "en": [
+"Calm",
+"Angry",
+"Sad",
+"Lonely",
+"Happy"
+      ]
+    }
+  ],
 
 Оценка И Описание Чего-то / Кого-то
-Good - Хороший
-Bad - Плохой
-Interesting - Интересный
-Boring - Надоедливый
-Pleasant - Приятный
-Unpleasant - Неприятный
-Excellent - Отличный
-Perfect - Совершенный
-Abominable - Отвратительный
-Beautiful - Красивый
-Nice - Милый
-Attractive - Привлекательный
-Kind - Добрый
-Hostile - Враждебный
-Gentle - Вежливый
-Polite - Вежливый
-Rude - Грубый
-Generous - Щедрый
-Excited - Взволнованный
-Frightened - Испуганный
-Astonished - Удивленный
-Angry - Сердитый
-Sensitive - Чувствительный
-Indifferent - Безразличный
-Hard-hearted - Черствый
-Good-hearted - Добросердечный
+  "evaluationAndDescriptionOfSomething": [
+    {
+      "ru": [
+"Хороший",
+"Плохой",
+"Интересный",
+"Надоедливый",
+"Приятный",
+"Неприятный",
+"Отличный",
+"Совершенный",
+"Отвратительный",
+"Красивый",
+"Милый",
+"Привлекательный",
+"Добрый",
+"Враждебный",
+"Вежливый",
+"Вежливый",
+"Грубый",
+"Щедрый",
+"Взволнованный",
+"Испуганный",
+"Удивленный",
+"Сердитый",
+"Чувствительный",
+"Безразличный",
+"Черствый",
+"Добросердечный"
+      ]
+    },
+    {
+      "en": [
+"Good",
+"Bad",
+"Interesting",
+"Boring",
+"Pleasant",
+"Unpleasant",
+"Excellent",
+"Perfect",
+"Abominable",
+"Beautiful",
+"Nice",
+"Attractive",
+"Kind",
+"Hostile",
+"Gentle",
+"Polite",
+"Rude",
+"Generous",
+"Excited",
+"Frightened",
+"Astonished",
+"Angry",
+"Sensitive",
+"Indifferent",
+"Hard-hearted",
+"Good-hearted"
+      ]
+    }
+  ],
 
 Моральные Качества
-Decent - Приличный
-Honest - Честный
-Fair - Честный /справедливый
-Sincere - Искренний
-Dishonest - Нечестный
-Innocent - Невиновный
-Guilty - Виновный
-Criminal - Преступный
+  "moralQualities": [
+    {
+      "ru": [
+"Приличный",
+"Честный",
+"Честный/справедливый",
+"Искренний",
+"Нечестный",
+"Невиновный",
+"Виновный",
+"Преступный"
+      ]
+    },
+    {
+      "en": [
+"Decent",
+"Honest",
+"Fair",
+"Sincere",
+"Dishonest",
+"Innocent",
+"Guilty",
+"Criminal"
+      ]
+    }
+  ],
 
 О Человеке
-Talkative - Разговорчивый
-Sociable - Общительный
-Disobedient - Непослушный
-Strict - Строгий
-Mild - Мягкий
-Reliable - Надежный
-Brave - Храбрый
-Reasonable - Разумный
-Cautious - Осторожный
-Clever - Умный
-Intelligent - Умный, Знающий
-Talented - Талантливый
-Silly - Глупый
-Stupid - Глупый, Тупой
-Mad - Сумасшедший
-Crazy - Сумасшедший / Чокнутый
-Diligent - Прилежный / Усердный
-Lazy - Ленивый
+  "aboutAHuman": [
+    {
+      "ru": [
+"Разговорчивый",
+"Общительный",
+"Непослушный",
+"Строгий",
+"Мягкий",
+"Надежный",
+"Храбрый",
+"Разумный",
+"Осторожный",
+"Умный",
+"Умный, Знающий",
+"Талантливый",
+"Глупый",
+"Глупый, Тупой",
+"Сумасшедший",
+"Сумасшедший/Чокнутый",
+"Прилежный/Усердный",
+"Ленивый"
+      ]
+    },
+    {
+      "en": [
+"Talkative",
+"Sociable",
+"Disobedient",
+"Strict",
+"Mild",
+"Reliable",
+"Brave",
+"Reasonable",
+"Cautious",
+"Clever",
+"Intelligent",
+"Talented",
+"Silly",
+"Stupid",
+"Mad",
+"Crazy",
+"Diligent",
+"Lazy"
+      ]
+    }
+  ],
 
 Качество
-High-quality - Качественный
-Similar - Похожий
-Different - Различный
-The Same - Тот Же Самый
-Main - Главный
-Important - Важный
-Insignificant - Незначительный
+  "quality": [
+    {
+      "ru": [
+"Качественный",
+"Похожий",
+"Различный",
+"Тот же Самый",
+"Главный",
+"Важный",
+"Незначительный"
+      ]
+    },
+    {
+      "en": [
+"High-quality",
+"Similar",
+"Different",
+"The Same",
+"Main",
+"Important",
+"Insignificant"
+      ]
+    }
+  ],
 
 Категории
-Necessary - Необходимый
-Possible - Возможный
-Desirable - Желательный
-Occasional - Случайный
+  "categories": [
+    {
+      "ru": [
+"Необходимый",
+"Возможный",
+"Желательный",
+"Случайный"
+      ]
+    },
+    {
+      "en": [
+"Necessary",
+"Possible",
+"Desirable",
+"Occasional"
+      ]
+    }
+  ],
 
 Соответствие
-Correct - Правильный
-Wrong - Неправильный
-Absurd - Абсурдный
-Legal - Законный
-Illegal - Незаконный
-Standard - Стандартный
-Suitable - Подходящий
-Appropriate - Подходящий
-Acceptable - Приемлемый
-Satisfactory - Удовлетворительный
-Advantageous - Выгодный
-Disadvantageous - Невыгодный
-Useful - Полезный
-Useless - Бесполезный
-Harmful - Вредный
-Harmless - Безвредный
-Cheap - Дешевый
-Expensive - Дорогой
-Free Of Charge - Бесплатный
+  "conformity": [
+    {
+      "ru": [
+"Правильный",
+"Неправильный",
+"Абсурдный",
+"Законный",
+"Незаконный",
+"Стандартный",
+"Подходящий",
+"Подходящий",
+"Приемлемый",
+"Удовлетворительный",
+"Выгодный",
+"Невыгодный",
+"Полезный",
+"Бесполезный",
+"Вредный",
+"Безвредный",
+"Дешевый",
+"Дорогой",
+"Бесплатный"
+      ]
+    },
+    {
+      "en": [
+"Correct",
+"Wrong",
+"Absurd",
+"Legal",
+"Illegal",
+"Standard",
+"Suitable",
+"Appropriate",
+"Acceptable",
+"Satisfactory",
+"Advantageous",
+"Disadvantageous",
+"Useful",
+"Useless",
+"Harmful",
+"Harmless",
+"Cheap",
+"Expensive",
+"Free Of Charge"
+      ]
+    }
+  ],
 
 Здоровье
-Healthy - Здоровый
-Sick - Больной
-Ill - Больной
-Strong - Сильный
-Weak - Слабый
-Tired - Усталый
+  "health": [
+    {
+      "ru": [
+"Здоровый",
+"Больной",
+"Больной",
+"Сильный",
+"Слабый",
+"Усталый"
+      ]
+    },
+    {
+      "en": [
+"Healthy",
+"Sick",
+"Ill",
+"Strong",
+"Weak",
+"Tired"
+      ]
+    }
+  ],
 
 Материальное Положение
-Rich - Богатый
-Рооr - Бедный
+  "financialSituation": [
+    {
+      "ru": [
+"Rich",
+"Рооr"
+      ]
+    },
+    {
+      "en": [
+"Богатый",
+"Бедный"
+      ]
+    }
+  ],
 
 Другое
-Ready - Готовый
-Convenient - Удобный
-Comfortable - Удобный
-Free - Свободный
-Vacant - Свободный / Вакантный
-Busy - Занятый (чем-либо)
-Occupied - Занятый (о Месте)
-Clean - Чистый
-Dirty - Грязный
-Hungry - Голодный
-Thirsty - Жаждущий
-Average - Средний
-Sufficient - Достаточный
-Full - Полный
+  "other": [
+    {
+      "ru": [
+"Готовый",
+"Удобный",
+"Удобный",
+"Свободный",
+"Свободный/Вакантный",
+"Занятый (чем-либо)",
+"Занятый (о Месте)",
+"Чистый",
+"Грязный",
+"Голодный",
+"Жаждущий",
+"Средний",
+"Достаточный",
+"Полный"
+      ]
+    },
+    {
+      "en": [
+"Ready",
+"Convenient",
+"Comfortable",
+"Free",
+"Vacant",
+"Busy",
+"Occupied",
+"Clean",
+"Dirty",
+"Hungry",
+"Thirsty",
+"Average",
+"Sufficient",
+"Full"
+      ]
+    }
+  ]
