@@ -1,27 +1,27 @@
-          "days": [
-              {
-                "ru": [
-                  "Понедельник",
-                  "Вторник",
-                  "Среда",
-                  "Четверг",
-                  "Пятница",
-                  "Суббота",
-                  "Воскресение"
-                ]
-              },
-              {
-                "en": [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday"
-                ]
-              }
-            ],
+"days": [
+    {
+      "ru": [
+        "Понедельник",
+        "Вторник",
+        "Среда",
+        "Четверг",
+        "Пятница",
+        "Суббота",
+        "Воскресение"
+      ]
+    },
+    {
+      "en": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    }
+  ],
 "months": [
     {
       "ru": [
@@ -59,67 +59,67 @@
     "planetsOfTheSolarSystem": [
       {
         "ru": [
-          "Солнце",
-          "Меркурий",
-          "Венера",
-          "Земля",
-          "Луна",
-          "Марс",
-          "Юпитер",
-          "Сатурн",
-          "Уран",
-          "Нептун",
-          "Плутон"
+"Солнце",
+"Меркурий",
+"Венера",
+"Земля",
+"Луна",
+"Марс",
+"Юпитер",
+"Сатурн",
+"Уран",
+"Нептун",
+"Плутон"
         ]
       },
       {
         "en": [
-          "Sun",
-          "Mercury",
-          "Venus",
-          "Earth",
-          "Moon",
-          "Mars",
-          "Jupiter",
-          "Saturn",
-          "Uranus",
-          "Neptune",
-          "Pluto"
+"Sun",
+"Mercury",
+"Venus",
+"Earth",
+"Moon",
+"Mars",
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptune",
+"Pluto"
         ]
       }
     ],
       "zodiacSigns": [
         {
-          "ru": [
-            "Овен",
-            "Телец",
-            "Близнецы",
-            "Рак",
-            "Лев",
-            "Дева",
-            "Весы",
-            "Скорпион",
-            "Стрелец",
-            "Козерог",
-            "Водолей",
-            "Рыбы"
-          ]
+"ru": [
+  "Овен",
+  "Телец",
+  "Близнецы",
+  "Рак",
+  "Лев",
+  "Дева",
+  "Весы",
+  "Скорпион",
+  "Стрелец",
+  "Козерог",
+  "Водолей",
+  "Рыбы"
+]
         },
         {
-          "en": [
-            "Aries",
-            "Taurus",
-            "Gemini",
-            "Cancer",
-            "Leo",
-            "Virgo",
-            "Libra",
-            "Scorpio",
-            "Sagittarius",
-            "Capricorn",
-            "Aquarius",
-            "Pisces"
-          ]
+"en": [
+  "Aries",
+  "Taurus",
+  "Gemini",
+  "Cancer",
+  "Leo",
+  "Virgo",
+  "Libra",
+  "Scorpio",
+  "Sagittarius",
+  "Capricorn",
+  "Aquarius",
+  "Pisces"
+]
         }
       ],
 
@@ -392,244 +392,312 @@
 "Kidney"
 
 
-          Семья
-            "family": [
-              {
-                "ru": [
-                  "Семья",
-                  "Отец",
-                  "Мать",
-                  "Ребенок",
-                  "Сестра",
-                  "Брат",
-                  "Муж",
-                  "Жена",
-                  "Сын",
-                  "Дочь",
-                  "Родители"
-                ]
-              },
-              {
-                "en": [
-                  "Family",
-                  "Father",
-                  "Mother",
-                  "Child",
-                  "Sister",
-                  "Brother",
-                  "Husband",
-                  "Wife",
-                  "Son",
-                  "Daughter",
-                  "Parents"
-                ]
-              }
-            ]
+Семья
+  "family": [
+    {
+      "ru": [
+        "Семья",
+        "Отец",
+        "Мать",
+        "Ребенок",
+        "Сестра",
+        "Брат",
+        "Муж",
+        "Жена",
+        "Сын",
+        "Дочь",
+        "Родители"
+      ]
+    },
+    {
+      "en": [
+        "Family",
+        "Father",
+        "Mother",
+        "Child",
+        "Sister",
+        "Brother",
+        "Husband",
+        "Wife",
+        "Son",
+        "Daughter",
+        "Parents"
+      ]
+    }
+  ]
 
-          Родственники
-          "relatives": [
-              {
-                "ru": [
-                  "Родные",
-                  "Дедушка",
-                  "Бабушка",
-                  "Дядя",
-                  "Тетя",
-                  "Племянник",
-                  "Племянница",
-                  "Двоюродный брат /сестра",
-                  "Внук",
-                  "Внучка"
-                ]
-              },
-              {
-                "en": [
-                  "Relatives",
-                  "grandfather",
-                  "grandmother",
-                  "uncle",
-                  "aunt",
-                  "nephew",
-                  "niece",
-                  "cousin",
-                  "grandson",
-                  "granddaughter"
-                ]
-              }
-            ],
+Родственники
+"relatives": [
+    {
+      "ru": [
+        "Родные",
+        "Дедушка",
+        "Бабушка",
+        "Дядя",
+        "Тетя",
+        "Племянник",
+        "Племянница",
+        "Двоюродный брат /сестра",
+        "Внук",
+        "Внучка"
+      ]
+    },
+    {
+      "en": [
+        "Relatives",
+        "grandfather",
+        "grandmother",
+        "uncle",
+        "aunt",
+        "nephew",
+        "niece",
+        "cousin",
+        "grandson",
+        "granddaughter"
+      ]
+    }
+  ],
 
-          Связи
-          Relations - Отношение, Связь
-          Friend - Друг
-          Colleague - Коллега
-          Employer - Работодатель
-          Employee - Наемный Работник
-          Acquaintance - Знакомство
+Связи
+"Отношение, Связь",
+"Друг",
+"Коллега",
+"Работодатель",
+"Наемный Работник",
+"Знакомство"
 
-          Жилье
-          Address - Адрес
-          House - Дом
-          Building - Здание
-          Street - Улица
-          Square - Площадь
-          Apartment - Квартира
-          Flat - Квартира
-          Floor - Этаж
-          Yard - Двор
-          Fence - Забор
+"Relations",
+"Friend",
+"Colleague",
+"Employer",
+"Employee",
+"Acquaintance"
+
+Жилье
+"Адрес",
+"Дом",
+"Здание",
+"Улица",
+"Площадь",
+"Квартира",
+"Квартира",
+"Этаж",
+"Двор",
+"Забор"
+
+"Address",
+"House",
+"Building",
+"Street",
+"Square",
+"Apartment",
+"Flat",
+"Floor",
+"Yard",
+"Fence"
 
 
-          Устройство Дома
-          Roof - Крыша
-          Wall - Стена
-          Floor - Пол
-          Ceiling - Потолок
-          Window - Окно
-          Corner - Угол
-          Staircase - Лестница
-          Landing - Лестничная Площадка
-          Lift - Лифт
-          Door - Дверь
-          Bell - Звонок
-          Lock - Замок
-          Кеу - Ключ
+Устройство Дома
+"Крыша",
+"Стена",
+"Пол",
+"Потолок",
+"Окно",
+"Угол",
+"Лестница",
+"Лестничная Площадка",
+"Лифт",
+"Дверь",
+"Звонок",
+"Замок",
+"Ключ"
 
-          Комнаты
-          Room - Комната
-          Entrance Hall - Прихожая
-          Kitchen - Кухня
-          Bathroom - Ванная
-          Toilet - Туалет
-          Bedroom - Спальня
+"Roof",
+"Wall",
+"Floor",
+"Ceiling",
+"Window",
+"Corner",
+"Staircase",
+"Landing",
+"Lift",
+"Door",
+"Bell",
+"Lock",
+"Кеу"
 
-          Мебель
-          Furniture - Мебель
-          Table - Стол
-          Chair - Стул
-          Armchair - Кресло
-          Bed - Кровать
-          Sofa - Диван
-          Carpet - Ковер
-          Mirror - Зеркало
+Комнаты
+"Комната",
+"Прихожая",
+"Кухня",
+"Ванная",
+"Туалет",
+"Спальня"
 
-          Бытовые Приборы
-          Fridge - Холодильник
-          Vacuum Cleaner - Пылесос
-          Washing Machine - Стиральная Машина
-          Stove - Плита
-          Iron - Утюг
+"Room",
+"Entrance hall",
+"Kitchen",
+"Bathroom",
+"Toilet",
+"Bedroom"
 
-          Прием Пищи
-          Meals - Пища, Еда
-          Breakfast - Завтрак
-          Lunch - Второй Завтрак /обед
-          Dinner - Обед
-          Supper - Ужин
-          Appetite - Аппетит
+Мебель
+"Мебель",
+"Стол",
+"Стул",
+"Кресло",
+"Кровать",
+"Диван",
+"Ковер",
+"Зеркало"
 
-          Напитки
-          Drink - Напиток
-          Tea - Чай
-          Coffee - Кофе
-          Milk - Молоко
-          Juice - Сок
-          Wine - Вино
+"Furniture",
+"Table",
+"Chair",
+"Armchair",
+"Bed",
+"Sofa",
+"Carpet",
+"Mirror"
 
-          Сладости
-          Sweets - Сладости
-          Chocolate - Шоколад
-          Biscuit - Печенье
-          Cake - Торт /пирожное
-          Pie - Пирог
-          Jam - Варенье
-          Sugar - Caxap
-          Honey - Мёд
+Бытовые Приборы
+"Холодильник",
+"Пылесос",
+"Стиральная Машина",
+"Плита",
+"Утюг"
 
-          Продукты Питания
-          Butcher’s - Мясной Магазин
-          Greengrocer’s - Овощной Магазин
-          Dairy - Молочный Магазин
-          Sausage - Колбаса
-          Cheese - Сыр
-          Fish - Рыба
-          Canned Goods - Консервы
-          Butter - Сливочное Масло
-          Vegetable Oil - Растительное Масло
-          Bread - Хлеб
+"Fridge",
+"Vacuum Cleaner",
+"Washing Machine",
+"Stove",
+"Iron",
 
-          Эмоции
-          Emotion - Эмоция
-          Feeling - Чувство
-          Pleasure - Удовольствие
-          Satisfaction - Удовлетворение
-          Happiness - Счастье
-          Joy - Радость
-          Sadness - Печаль
-          Excitement - Возбуждение
-          Suffering - Страдание
-          Sympathy - Сочувствие
-          Admiration - Восхищение
-          Respect - Уважение
+Прием Пищи
+"Пища, Еда",
+"Завтрак",
+"Второй Завтрак /обед",
+"Обед",
+"Ужин",
+"Аппетит"
 
-          Чувства
-          Love - Любовь
-          Friendship - Дружба
-          Envy - Зависть
-          Wish - Желание
-          Intention - Намерение
-          Dream - Мечта
-          Hope - Надежда
-          Purpose - Цель
+"Meals",
+"Breakfast",
+"Lunch",
+"Dinner",
+"Supper",
+"Appetite"
 
-          Информация
-          Information - Информация
-          Report - Сообщение /доклад
-          News - Новости
-          Rumour - Слух, Молва
-          Truth - Правда
-          Lie - Ложь
+Напитки
+"Напиток",
+"Чай",
+"Кофе",
+"Молоко",
+"Сок",
+"Вино"
 
-          Язык
-          Language - Язык
-          Word - Слово
-          Foreign Language - Иностранный Язык
-          Mother Tongue - Родной Язык
-          Sentence - Предложение
-          Phrase - Словосочетание
-          Meaning - Значение/смысл
-          Pronunciation - Произношение
-          Stress - Ударение
-          Accent - Ударение
+"Drink",
+"Tea",
+"Coffee",
+"Milk",
+"Juice",
+"Wine"
 
-          Цель Высказывания
-          Conversation - Беседа
-          Question - Вопрос
-          Answer - Ответ
-          Advice - Совет
-          Warning - Предупреждение
-          Request - Просьба
-          Demand - Требование
-          Promise - Обещание
-          Remark - Замечание
-          Help - Помощь
-          Assistance - Помощь
+Сладости
+Sweets - Сладости
+Chocolate - Шоколад
+Biscuit - Печенье
+Cake - Торт /пирожное
+Pie - Пирог
+Jam - Варенье
+Sugar - Caxap
+Honey - Мёд
 
-          Этикет
-          Etiquette - Этикет
-          Behaviour - Поведение
-          Politeness - Вежливость
-          Apology - Извинение
-          Forgiveness - Прощение
-          Attitude - Отношение
+Продукты Питания
+Butcher’s - Мясной Магазин
+Greengrocer’s - Овощной Магазин
+Dairy - Молочный Магазин
+Sausage - Колбаса
+Cheese - Сыр
+Fish - Рыба
+Canned Goods - Консервы
+Butter - Сливочное Масло
+Vegetable Oil - Растительное Масло
+Bread - Хлеб
 
-          Город
-          City - Город
-          Town - Маленький Город
-          Street - Улица
-          Square - Площадь
-          Building - Здание
+Эмоции
+Emotion - Эмоция
+Feeling - Чувство
+Pleasure - Удовольствие
+Satisfaction - Удовлетворение
+Happiness - Счастье
+Joy - Радость
+Sadness - Печаль
+Excitement - Возбуждение
+Suffering - Страдание
+Sympathy - Сочувствие
+Admiration - Восхищение
+Respect - Уважение
 
-          Транспорт
+Чувства
+Love - Любовь
+Friendship - Дружба
+Envy - Зависть
+Wish - Желание
+Intention - Намерение
+Dream - Мечта
+Hope - Надежда
+Purpose - Цель
+
+Информация
+Information - Информация
+Report - Сообщение /доклад
+News - Новости
+Rumour - Слух, Молва
+Truth - Правда
+Lie - Ложь
+
+Язык
+Language - Язык
+Word - Слово
+Foreign Language - Иностранный Язык
+Mother Tongue - Родной Язык
+Sentence - Предложение
+Phrase - Словосочетание
+Meaning - Значение/смысл
+Pronunciation - Произношение
+Stress - Ударение
+Accent - Ударение
+
+Цель Высказывания
+Conversation - Беседа
+Question - Вопрос
+Answer - Ответ
+Advice - Совет
+Warning - Предупреждение
+Request - Просьба
+Demand - Требование
+Promise - Обещание
+Remark - Замечание
+Help - Помощь
+Assistance - Помощь
+
+Этикет
+Etiquette - Этикет
+Behaviour - Поведение
+Politeness - Вежливость
+Apology - Извинение
+Forgiveness - Прощение
+Attitude - Отношение
+
+Город
+City - Город
+Town - Маленький Город
+Street - Улица
+Square - Площадь
+Building - Здание
+
+Транспорт
  "urbanTransport": [
     {
       "ru": [
@@ -651,93 +719,114 @@
     }
   ],
 
-          Вокзал
-          Railway Station - Железная Дорога
-          Platform - Платформа
-          Track - Путь
-          Train - Поезд
-          Departure - Отправление
-          Arrival - Прибытие
-          Change - Пересадка
+Вокзал
+"Железная Дорога",
+"Платформа",
+"Путь",
+"Поезд",
+"Отправление",
+"Прибытие",
+"Пересадка"
 
-          Аэропорт
-          Airport - Аэропорт
-          Plane - Самолет
-          Check In - Регистрация
-          Passport Control - Паспортный Контроль
-          Take-off - Взлет
-          Landing - Посадка
-          Flight Attendant - Стюардесса
-          Pilot - Пилот
-          Boarding - Посадка На Борт
-          Flight - Полет
-          Seat - Место
-          Seat-belt - Ремень Безопасности
+"Railway station",
+"Platform",
+"Track",
+"Train",
+"Departure",
+"Arrival",
+"Change"
 
-          Объекты Города
-            "cityObjects": [
-              {
-                "ru": [
-                  "Отель",
-                  "Полиция",
-                  "Больница",
-                  "Церковь",
-                  "Рынок",
-                  "Ресторан",
-                  "Цирк",
-                  "Театр",
-                  "Кинотеатр"
-                ]
-              },
-              {
-                "en": [
-                  "Hotel",
-                  "Police",
-                  "Hospital",
-                  "Church",
-                  "Market",
-                  "Restaurant",
-                  "Circus",
-                  "Cinema"
-                ]
-              }
-            ],
+Аэропорт
+"Аэропорт",
+"Самолет",
+"Регистрация",
+"Паспортный Контроль",
+"Взлет",
+"Посадка",
+"Стюардесса",
+"Пилот",
+"Посадка На Борт",
+"Полет",
+"Место",
+"Ремень Безопасности"
 
-          Здоровье
-          Health - Здоровье
-          Hygiene - Гигиена
-          Illness - Болезнь
-          Disease - Болезнь
-          Recovery - Выздоровление
-          Death - Смерть
-          Injury - Повреждение
-          Fracture - Перелом
-          Wound - Рана
-          Burn - Ожог
-          Allergy - Аллергия
+"Airport",
+"Plane",
+"Check in",
+"Passport control",
+"Take-off",
+"Landing",
+"Flight attendant",
+"Pilot",
+"Boarding",
+"Flight",
+"Seat",
+"Seat-belt"
 
-          Магазин
-          Shop - Магазин
-          Goods - Товары
-          Laundry - Прачечная
+Объекты Города
+  "cityObjects": [
+    {
+      "ru": [
+        "Отель",
+        "Полиция",
+        "Больница",
+        "Церковь",
+        "Рынок",
+        "Ресторан",
+        "Цирк",
+        "Театр",
+        "Кинотеатр"
+      ]
+    },
+    {
+      "en": [
+        "Hotel",
+        "Police",
+        "Hospital",
+        "Church",
+        "Market",
+        "Restaurant",
+        "Circus",
+        "Cinema"
+      ]
+    }
+  ],
 
-          Гостиница
-          Hotel - Гостиница
-          Reservation - Бронирование
-          Room - Номер
-          Bill - Счет
+Здоровье
+Health - Здоровье
+Hygiene - Гигиена
+Illness - Болезнь
+Disease - Болезнь
+Recovery - Выздоровление
+Death - Смерть
+Injury - Повреждение
+Fracture - Перелом
+Wound - Рана
+Burn - Ожог
+Allergy - Аллергия
 
-          Профессии
-          Profession - Профессия
-          Doctor - Врач
-          Teacher - Учитель
-          Lawyer - Юрист
-          Businessman - Бизнесмен
-          Engineer - Инженер
-          Worker - Рабочий
-          Officer - Офицер, полицейский
+Магазин
+Shop - Магазин
+Goods - Товары
+Laundry - Прачечная
 
-          Армия
-          Soldier - Солдат
-          Paratrooper - Десантник
-          Marine - Морской пехотинец
+Гостиница
+Hotel - Гостиница
+Reservation - Бронирование
+Room - Номер
+Bill - Счет
+
+Профессии
+Profession - Профессия
+Doctor - Врач
+Teacher - Учитель
+Lawyer - Юрист
+Businessman - Бизнесмен
+Engineer - Инженер
+Worker - Рабочий
+Officer - Офицер, полицейский
+
+Армия
+Soldier - Солдат
+Paratrooper - Десантник
+Marine - Морской пехотинец
