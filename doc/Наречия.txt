@@ -1,80 +1,154 @@
 4. Наречия
 
 Вопросительные
-How - Как
-How Many - Сколько
-How Much - Сколько
-Where - Где
-Когда - When
-Почему - Why
+"Как",
+"Сколько",
+"Сколько",
+"Где",
+"Когда",
+"Почему"
+
+"How",
+"How Many",
+"How Much",
+"Where",
+"When",
+"Why"
 
 Места
-Where - Где
-Here - Здесь
-There - Там
-Somewhere - Где-нибудь
-Anywhere - Где-нибудь
-Everywhere - Везде
-Nowhere - Нигде
-Inside - Внутри
-Outside - Снаружи
-Beside - Рядом
-Above - Наверху
-Below - Внизу
-In Front Of - Впереди
-Ahead - Впереди / Вперед
-Behind - Сзади
-High - Высоко
-Low - Низко
-Far - Далеко
-Near - Близко
+"Где",
+"Здесь",
+"Там",
+"Где-нибудь",
+"Где-нибудь",
+"Везде",
+"Нигде",
+"Внутри",
+"Снаружи",
+"Рядом",
+"Наверху",
+"Внизу",
+"Впереди",
+"Впереди / Вперед",
+"Сзади",
+"Высоко",
+"Низко",
+"Далеко",
+"Близко"
+
+"Where",
+"Here",
+"There",
+"Somewhere",
+"Anywhere",
+"Everywhere",
+"Nowhere",
+"Inside",
+"Outside",
+"Beside",
+"Above",
+"Below",
+"InFrontOf",
+"Ahead",
+"Behind",
+"High",
+"Low",
+"Far",
+"Near"
 
 Направления
-Назад - Back, Backwards
-Вперед - Ahead, Towards
-Up - Вверх
-Down - Вниз
-Sideways - В Сторону
-Направо - To The Right
-Налево - To The Left
-Вокруг - Around
+"Назад",
+"Вперед",
+"Вверх",
+"Вниз",
+"В сторону",
+"Направо",
+"Налево",
+"Вокруг"
+
+"Back",
+"Forward",
+"Up",
+"Down",
+"Sideways",
+"ToTheRight",
+"ToTheLeft",
+"Around"
 
 Времени
-Now - Сейчас
-Lately - В Последнее Время
-Recently - Недавно
-Just - Только Что
-On The Eve - Накануне
-Once - Однажды
-Before - Раньше
-Long Ago - Давно
-Then - Тогда
-Afterwards - После
-Immediately - Немедленно
-Soon - Скоро
-Today - Сегодня
-Tonight - Сегодня Вечером
-Tomorrow - Завтра
-The Day After Tomorrow - Послезавтра
-Yesterday - Вчера
-The Day Before Yesterday - Позавчера
-Still - Все Еще
-Already - Уже
-Yet - Уже
+"Сейчас",
+"В Последнее Время",
+"Недавно",
+"Только Что",
+"Накануне",
+"Однажды",
+"Раньше",
+"Давно",
+"Тогда",
+"После",
+"Немедленно",
+"Скоро",
+"Сегодня",
+"Сегодня Вечером",
+"Завтра",
+"Послезавтра",
+"Вчера",
+"Позавчера",
+"Все Еще",
+"Уже",
+"Уже"
+
+"Now",
+"Lately",
+"Recently",
+"Just",
+"OnTheEve",
+"Once",
+"Before",
+"LongAgo",
+"Then",
+"Afterwards",
+"Immediately",
+"Soon",
+"Today",
+"Tonight",
+"Tomorrow",
+"TheDayAfterTomorrow",
+"Yesterday",
+"TheDayBeforeYesterday",
+"Still",
+"Already",
+"Yet"
 
 Повторения И Частотности
-Always - Всегда
-Often - Часто
-Frequently - Часто
-Constantly - Постоянно
-Usually - Обычно
-Seldom - Редко
-Sometimes - Иногда
-Never - Никогда
+"Всегда",
+"Часто",
+"Часто",
+"Постоянно",
+"Обычно",
+"Редко",
+"Иногда",
+"Никогда"
+
+"Always",
+"Often",
+"Frequently",
+"Constantly",
+"Usually",
+"Seldom",
+"Sometimes",
+"Never"
 
 Наречия Для Соединения Предложений
-Поэтому - That’s Why
-Однако - However
-Тем Не Менее - Nevertheless
-Тем Временем - Meanwhile
-В Противном Случае - Otherwise
+
+"Поэтому",
+"Однако",
+"Тем Не Менее",
+"Тем Временем",
+"В Противном Случае"
+
+"That’s Why",
+"However",
+"Nevertheless",
+"Meanwhile",
+"Otherwise"

@@ -1,0 +1,406 @@
+          3. Существительные
+
+          Мир
+          Country - Страна
+          Nature - Природа
+          Sky - Небо
+          Sun - Солнце
+          Air - Воздух
+          Cloud - Облако
+          Land - Суша
+          Continent - Континент
+          Territory - Территория
+          Water - Вода
+          River - Река
+          Sea - Море
+          Lake - Озеро
+          Forest - Лес
+          North - Север
+          South - Юг
+          East - Восток
+          West - Запад
+          Plant - Растение
+          Tree - Дерево
+          Animal - Животное
+          Bird - Птица
+          Fish - Рыба
+          Flower - Цветок
+          Insect - Насекомое
+
+          Погода
+          Weather - Погода
+          Season - Сезон
+          Winter - Зима
+          Spring - Весна
+          Summer - Лето
+          Autumn - Осень
+          Temperature - Температура
+          Pressure - Давление
+          Rain - Дождь
+          Snow - Снег
+          Thunder - Гром
+          Lightning - Молния
+          Wind - Ветер
+
+
+
+
+          Время
+          Time - Время
+          Century - Столетие, Век
+          Year - Год
+          Month - Месяц
+          Week - Неделя
+          Day - День
+          Hour - Час
+          Minute - Минута
+          Clock - Часы
+          Watch - Часы
+          Calendar - Календарь
+          Morning - Утро
+          Midday - Полдень
+          Noon - Полдень
+          Afternoon - Время После Обеда
+          Evening - Вечер
+          Night - Ночь
+          Present - Настоящее
+          Past - Прошлое
+          Future - Будущее
+          Beginning - Начало
+          End - Конец
+          Schedule - Расписание
+          Delay - Задержка
+          Holiday - Праздник /каникулы
+          Weekend - Выходные Дни
+          Vacation - Каникулы
+
+          Человек
+          Human Being - Человек
+          Man - Мужчина
+          Woman - Женщина
+          Child - Ребенок
+          Girl - Девочка
+          Boy - Мальчик
+          Youth - Юность, Молодость
+          Grown-up - Взрослый (человек)
+          Nationality - Национальность
+
+          Анатомия
+          Body - Тело
+          Weight - Вес
+          Bone - Кость
+          Muscle - Мышцы
+          Blood - Кровь
+          Skin - Кожа
+          Hair - Волосы
+          Части Тела
+          Head - Голова
+          Neck - Шея
+          Chest - Грудь
+          Back - Спина
+          Stomach - Живот
+          Leg - Нога
+          Foot - Стопа
+          Arm - Рука
+          Hand - Кисть
+          Finger - Палец
+          Elbow - Локоть
+          Knee - Колено
+          Waist - Талия
+          Heel - Пятка
+          Nail - Ноготь
+
+          Части Лица
+          Face - Лицо
+          Eye - Глаз
+          Ear - Ухо
+          Forehead - Лоб
+          Cheek - Щека
+          Mouth - Рот
+          Lip - Губа
+          Tooth - Зуб
+          Tongue - Язык
+          Nose - Нос
+          Eyebrow - Бровь
+          Eyelash - Ресница
+          Skull - Череп
+          Chin - Подбородок
+          Temple - Висок
+
+          Органы
+          Brain - Мозг
+          Lungs - Легкие
+          Heart - Сердце
+          Stomach - Желудок
+          Liver - Печень
+          Kidney - Почка
+
+
+          Семья
+          Family - Семья
+          Father - Отец
+          Mother - Мать
+          Child - Ребенок
+          Sister - Сестра
+          Brother - Брат
+          Husband - Муж
+          Wife - Жена
+          Son - Сын
+          Daughter - Дочь
+          Wedding - Свадьба
+          Divorce - Развод
+          Parents - Родители
+
+          Родственники
+          Relatives - Родные
+          Grandfather - Дедушка
+          Grandmother - Бабушка
+          Uncle - Дядя
+          Aunt - Тетя
+          Nephew - Племянник
+          Niece - Племянница
+          Cousin - Двоюродный Брат /сестра
+          Grandson - Внук
+          Granddaughter - Внучка
+
+          Связи
+          Relations - Отношение, Связь
+          Friend - Друг
+          Colleague - Коллега
+          Employer - Работодатель
+          Employee - Наемный Работник
+          Acquaintance - Знакомство
+
+          Жилье
+          Address - Адрес
+          House - Дом
+          Building - Здание
+          Street - Улица
+          Square - Площадь
+          Apartment - Квартира
+          Flat - Квартира
+          Floor - Этаж
+          Yard - Двор
+          Fence - Забор
+
+
+          Устройство Дома
+          Roof - Крыша
+          Wall - Стена
+          Floor - Пол
+          Ceiling - Потолок
+          Window - Окно
+          Corner - Угол
+          Staircase - Лестница
+          Landing - Лестничная Площадка
+          Lift - Лифт
+          Door - Дверь
+          Bell - Звонок
+          Lock - Замок
+          Кеу - Ключ
+
+          Комнаты
+          Room - Комната
+          Entrance Hall - Прихожая
+          Kitchen - Кухня
+          Bathroom - Ванная
+          Toilet - Туалет
+          Bedroom - Спальня
+
+          Мебель
+          Furniture - Мебель
+          Table - Стол
+          Chair - Стул
+          Armchair - Кресло
+          Bed - Кровать
+          Sofa - Диван
+          Carpet - Ковер
+          Mirror - Зеркало
+
+          Бытовые Приборы
+          Fridge - Холодильник
+          Vacuum Cleaner - Пылесос
+          Washing Machine - Стиральная Машина
+          Stove - Плита
+          Iron - Утюг
+
+          Прием Пищи
+          Meals - Пища, Еда
+          Breakfast - Завтрак
+          Lunch - Второй Завтрак /обед
+          Dinner - Обед
+          Supper - Ужин
+          Appetite - Аппетит
+
+          Напитки
+          Drink - Напиток
+          Tea - Чай
+          Coffee - Кофе
+          Milk - Молоко
+          Juice - Сок
+          Wine - Вино
+
+          Сладости
+          Sweets - Сладости
+          Chocolate - Шоколад
+          Biscuit - Печенье
+          Cake - Торт /пирожное
+          Pie - Пирог
+          Jam - Варенье
+          Sugar - Caxap
+          Honey - Мёд
+
+          Продукты Питания
+          Butcher’s - Мясной Магазин
+          Greengrocer’s - Овощной Магазин
+          Dairy - Молочный Магазин
+          Sausage - Колбаса
+          Cheese - Сыр
+          Fish - Рыба
+          Canned Goods - Консервы
+          Butter - Сливочное Масло
+          Vegetable Oil - Растительное Масло
+          Bread - Хлеб
+
+          Эмоции
+          Emotion - Эмоция
+          Feeling - Чувство
+          Pleasure - Удовольствие
+          Satisfaction - Удовлетворение
+          Happiness - Счастье
+          Joy - Радость
+          Sadness - Печаль
+          Excitement - Возбуждение
+          Suffering - Страдание
+          Sympathy - Сочувствие
+          Admiration - Восхищение
+          Respect - Уважение
+
+          Другое
+          Love - Любовь
+          Friendship - Дружба
+          Envy - Зависть
+          Wish - Желание
+          Intention - Намерение
+          Dream - Мечта
+          Hope - Надежда
+          Purpose - Цель
+
+          Информация
+          Information - Информация
+          Report - Сообщение /доклад
+          News - Новости
+          Rumour - Слух, Молва
+          Truth - Правда
+          Lie - Ложь
+
+          Язык
+          Language - Язык
+          Word - Слово
+          Foreign Language - Иностранный Язык
+          Mother Tongue - Родной Язык
+          Sentence - Предложение
+          Phrase - Словосочетание
+          Meaning - Значение/смысл
+          Pronunciation - Произношение
+          Stress - Ударение
+          Accent - Ударение
+
+          Цель Высказывания
+          Conversation - Беседа
+          Question - Вопрос
+          Answer - Ответ
+          Advice - Совет
+          Warning - Предупреждение
+          Request - Просьба
+          Demand - Требование
+          Promise - Обещание
+          Remark - Замечание
+          Help - Помощь
+          Assistance - Помощь
+
+          Этикет
+          Etiquette - Этикет
+          Behaviour - Поведение
+          Politeness - Вежливость
+          Apology - Извинение
+          Forgiveness - Прощение
+          Attitude - Отношение
+
+
+          Город
+          City - Город
+          Town - Маленький Город
+          Street - Улица
+          Square - Площадь
+          Building - Здание
+
+          Транспорт
+          Bus - Автобус
+          Trolleybus - Троллейбус
+          Tram - Трамвай
+          Metro - Метро
+          Car - Автомобиль
+          Taxi - Такси
+          Truck - Грузовик
+
+          Railway Station - Железная Дорога
+          Platform - Платформа
+          Track - Путь
+          Train - Поезд
+          Departure - Отправление
+          Arrival - Прибытие
+          Change - Пересадка
+
+          Airport - Аэропорт
+          Plane - Самолет
+          Check In - Регистрация
+          Passport Control - Паспортный Контроль
+          Take-off - Взлет
+          Landing - Посадка
+          Flight Attendant - Стюардесса
+          Pilot - Пилот
+          Boarding - Посадка На Борт
+          Flight - Полет
+          Seat - Место
+          Seat-belt - Ремень Безопасности
+
+          Объекты Города
+          Hotel - Отель
+          Police - Полиция
+          Hospital - Больница
+          Church - Церковь
+          Market - Рынок
+          Restaurant - Ресторан
+          Circus - Цирк
+          Theatre - Театр
+          Cinema - Кинотеатр
+
+          Другое
+          Health - Здоровье
+          Hygiene - Гигиена
+          Illness - Болезнь
+          Disease - Болезнь
+          Recovery - Выздоровление
+          Death - Смерть
+          Injury - Повреждение
+          Fracture - Перелом
+          Wound - Рана
+          Burn - Ожог
+          Allergy - Аллергия
+          Shop - Магазин
+          Goods - Товары
+          Laundry - Прачечная
+          Hotel - Гостиница
+          Reservation - Бронирование
+          Room - Номер
+          Bill - Счет
+          Profession - Профессия
+          Doctor - Врач
+          Teacher - Учитель
+          Lawyer - Юрист
+          Businessman - Бизнесмен
+          Engineer - Инженер
+          Worker - Рабочий
+          Officer - Офицер, Полицейский
+          Soldier - Солдат
