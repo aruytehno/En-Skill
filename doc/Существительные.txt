@@ -1,4 +1,129 @@
-          3. Существительные
+
+
+          "days": [
+              {
+                "ru": [
+                  "Понедельник",
+                  "Вторник",
+                  "Среда",
+                  "Четверг",
+                  "Пятница",
+                  "Суббота",
+                  "Воскресение"
+                ]
+              },
+              {
+                "en": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday",
+                  "Sunday"
+                ]
+              }
+            ],
+"months": [
+    {
+      "ru": [
+        "Январь",
+        "Февраль",
+        "Март",
+        "Апрель",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Август",
+        "Сентябрь",
+        "Октябрь",
+        "Ноябрь",
+        "Декабрь"
+      ]
+    },
+    {
+      "en": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ]
+    }
+  ],
+    "planetsOfTheSolarSystem": [
+      {
+        "ru": [
+          "Солнце",
+          "Меркурий",
+          "Венера",
+          "Земля",
+          "Луна",
+          "Марс",
+          "Юпитер",
+          "Сатурн",
+          "Уран",
+          "Нептун",
+          "Плутон"
+        ]
+      },
+      {
+        "en": [
+          "Sun",
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Moon",
+          "Mars",
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune",
+          "Pluto"
+        ]
+      }
+    ],
+      "zodiacSigns": [
+        {
+          "ru": [
+            "Овен",
+            "Телец",
+            "Близнецы",
+            "Рак",
+            "Лев",
+            "Дева",
+            "Весы",
+            "Скорпион",
+            "Стрелец",
+            "Козерог",
+            "Водолей",
+            "Рыбы"
+          ]
+        },
+        {
+          "en": [
+            "Aries",
+            "Taurus",
+            "Gemini",
+            "Cancer",
+            "Leo",
+            "Virgo",
+            "Libra",
+            "Scorpio",
+            "Sagittarius",
+            "Capricorn",
+            "Aquarius",
+            "Pisces"
+          ]
+        }
+      ],
 
           Природа
           Nature - Природа
@@ -142,31 +267,70 @@
 
 
           Семья
-          Family - Семья
-          Father - Отец
-          Mother - Мать
-          Child - Ребенок
-          Sister - Сестра
-          Brother - Брат
-          Husband - Муж
-          Wife - Жена
-          Son - Сын
-          Daughter - Дочь
-          Wedding - Свадьба
-          Divorce - Развод
-          Parents - Родители
+            "family": [
+              {
+                "ru": [
+                  "Семья",
+                  "Отец",
+                  "Мать",
+                  "Ребенок",
+                  "Сестра",
+                  "Брат",
+                  "Муж",
+                  "Жена",
+                  "Сын",
+                  "Дочь",
+                  "Родители"
+                ]
+              },
+              {
+                "en": [
+                  "Family",
+                  "Father",
+                  "Mother",
+                  "Child",
+                  "Sister",
+                  "Brother",
+                  "Husband",
+                  "Wife",
+                  "Son",
+                  "Daughter",
+                  "Parents"
+                ]
+              }
+            ]
 
           Родственники
-          Relatives - Родные
-          Grandfather - Дедушка
-          Grandmother - Бабушка
-          Uncle - Дядя
-          Aunt - Тетя
-          Nephew - Племянник
-          Niece - Племянница
-          Cousin - Двоюродный Брат /сестра
-          Grandson - Внук
-          Granddaughter - Внучка
+          "relatives": [
+              {
+                "ru": [
+                  "Родные",
+                  "Дедушка",
+                  "Бабушка",
+                  "Дядя",
+                  "Тетя",
+                  "Племянник",
+                  "Племянница",
+                  "Двоюродный брат /сестра",
+                  "Внук",
+                  "Внучка"
+                ]
+              },
+              {
+                "en": [
+                  "Relatives",
+                  "grandfather",
+                  "grandmother",
+                  "uncle",
+                  "aunt",
+                  "nephew",
+                  "niece",
+                  "cousin",
+                  "grandson",
+                  "granddaughter"
+                ]
+              }
+            ],
 
           Связи
           Relations - Отношение, Связь
@@ -281,7 +445,7 @@
           Admiration - Восхищение
           Respect - Уважение
 
-          Другое
+          Чувства
           Love - Любовь
           Friendship - Дружба
           Envy - Зависть
@@ -340,13 +504,26 @@
           Building - Здание
 
           Транспорт
-          Bus - Автобус
-          Trolleybus - Троллейбус
-          Tram - Трамвай
-          Metro - Метро
-          Car - Автомобиль
-          Taxi - Такси
-          Truck - Грузовик
+ "urbanTransport": [
+    {
+      "ru": [
+        "Автобус",
+        "Metro",
+        "Taxi",
+        "Truck",
+        "Tram"
+      ]
+    },
+    {
+      "en": [
+        "Bus",
+        "Метро",
+        "Такси",
+        "Грузовик",
+        "Трамвай"
+      ]
+    }
+  ],
 
           Railway Station - Железная Дорога
           Platform - Платформа
@@ -370,15 +547,33 @@
           Seat-belt - Ремень Безопасности
 
           Объекты Города
-          Hotel - Отель
-          Police - Полиция
-          Hospital - Больница
-          Church - Церковь
-          Market - Рынок
-          Restaurant - Ресторан
-          Circus - Цирк
-          Theatre - Театр
-          Cinema - Кинотеатр
+            "cityObjects": [
+              {
+                "ru": [
+                  "Отель",
+                  "Полиция",
+                  "Больница",
+                  "Церковь",
+                  "Рынок",
+                  "Ресторан",
+                  "Цирк",
+                  "Театр",
+                  "Кинотеатр"
+                ]
+              },
+              {
+                "en": [
+                  "Hotel",
+                  "Police",
+                  "Hospital",
+                  "Church",
+                  "Market",
+                  "Restaurant",
+                  "Circus",
+                  "Cinema"
+                ]
+              }
+            ],
 
           Другое
           Health - Здоровье
