@@ -1,15 +1,8 @@
           3. Существительные
 
-          Мир
-          Country - Страна
+          Природа
           Nature - Природа
-          Sky - Небо
-          Sun - Солнце
           Air - Воздух
-          Cloud - Облако
-          Land - Суша
-          Continent - Континент
-          Territory - Территория
           Water - Вода
           River - Река
           Sea - Море
@@ -21,10 +14,25 @@
           West - Запад
           Plant - Растение
           Tree - Дерево
+          Sky - Небо
+          Sun - Солнце
+          Cloud - Облако
+
+          География
+          Country - Страна
+          Land - Суша
+          Continent - Континент
+          Territory - Территория
+
+          Животные
           Animal - Животное
           Bird - Птица
           Fish - Рыба
+
+          Растения
           Flower - Цветок
+
+          Насекомые
           Insect - Насекомое
 
           Погода
@@ -41,9 +49,6 @@
           Thunder - Гром
           Lightning - Молния
           Wind - Ветер
-
-
-
 
           Время
           Time - Время
@@ -327,7 +332,6 @@
           Forgiveness - Прощение
           Attitude - Отношение
 
-
           Город
           City - Город
           Town - Маленький Город
@@ -403,4 +407,8 @@
           Engineer - Инженер
           Worker - Рабочий
           Officer - Офицер, Полицейский
+
+          Армия
           Soldier - Солдат
+          Paratrooper - Десантник
+          Marine - Морской пехотинец

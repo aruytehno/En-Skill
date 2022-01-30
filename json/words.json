@@ -977,6 +977,201 @@
     }
   ],
 
+  "interrogativePronouns": [
+    {
+      "ru": [
+        "Как",
+        "Сколько",
+        "Сколько",
+        "Где",
+        "Когда",
+        "Почему"
+      ]
+    },
+    {
+      "en": [
+        "How",
+        "How Many",
+        "How Much",
+        "Where",
+        "When",
+        "Why"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "ru": [
+        "Где",
+        "Здесь",
+        "Там",
+        "Где-нибудь",
+        "Где-нибудь",
+        "Везде",
+        "Нигде",
+        "Внутри",
+        "Снаружи",
+        "Рядом",
+        "Наверху",
+        "Внизу",
+        "Впереди",
+        "Впереди / Вперед",
+        "Сзади",
+        "Высоко",
+        "Низко",
+        "Далеко",
+        "Близко"
+      ]
+    },
+    {
+      "en": [
+        "Where",
+        "Here",
+        "There",
+        "Somewhere",
+        "Anywhere",
+        "Everywhere",
+        "Nowhere",
+        "Inside",
+        "Outside",
+        "Beside",
+        "Above",
+        "Below",
+        "InFrontOf",
+        "Ahead",
+        "Behind",
+        "High",
+        "Low",
+        "Far",
+        "Near"
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "ru": [
+        "Назад",
+        "Вперед",
+        "Вверх",
+        "Вниз",
+        "В сторону",
+        "Направо",
+        "Налево",
+        "Вокруг"
+      ]
+    },
+    {
+      "en": [
+        "Back",
+        "Forward",
+        "Up",
+        "Down",
+        "Sideways",
+        "ToTheRight",
+        "ToTheLeft",
+        "Around"
+      ]
+    }
+  ],
+  "pronounsOfTime": [
+    {
+      "ru": [
+        "Сейчас",
+        "В Последнее Время",
+        "Недавно",
+        "Только Что",
+        "Накануне",
+        "Однажды",
+        "Раньше",
+        "Давно",
+        "Тогда",
+        "После",
+        "Немедленно",
+        "Скоро",
+        "Сегодня",
+        "Сегодня Вечером",
+        "Завтра",
+        "Послезавтра",
+        "Вчера",
+        "Позавчера",
+        "Все Еще",
+        "Уже",
+        "Уже"
+      ]
+    },
+    {
+      "en": [
+        "Now",
+        "Lately",
+        "Recently",
+        "Just",
+        "OnTheEve",
+        "Once",
+        "Before",
+        "LongAgo",
+        "Then",
+        "Afterwards",
+        "Immediately",
+        "Soon",
+        "Today",
+        "Tonight",
+        "Tomorrow",
+        "TheDayAfterTomorrow",
+        "Yesterday",
+        "TheDayBeforeYesterday",
+        "Still",
+        "Already",
+        "Yet"
+      ]
+    }
+  ],
+  "repetitionsAndFrequencies": [
+    {
+      "ru": [
+        "Всегда",
+        "Часто",
+        "Часто",
+        "Постоянно",
+        "Обычно",
+        "Редко",
+        "Иногда",
+        "Никогда"
+      ]
+    },
+    {
+      "en": [
+        "Always",
+        "Often",
+        "Frequently",
+        "Constantly",
+        "Usually",
+        "Seldom",
+        "Sometimes",
+        "Never"
+      ]
+    }
+  ],
+  "adverbsToConnectSentences": [
+    {
+      "ru": [
+        "Поэтому",
+        "Однако",
+        "Тем Не Менее",
+        "Тем Временем",
+        "В Противном Случае"
+      ]
+    },
+    {
+      "en": [
+        "That’s Why",
+        "However",
+        "Nevertheless",
+        "Meanwhile",
+        "Otherwise"
+      ]
+    }
+  ],
+
   "days": [
     {
       "ru": [
