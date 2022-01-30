@@ -1,5 +1,3 @@
-
-
           "days": [
               {
                 "ru": [
@@ -125,145 +123,273 @@
         }
       ],
 
-          Природа
-          Nature - Природа
-          Air - Воздух
-          Water - Вода
-          River - Река
-          Sea - Море
-          Lake - Озеро
-          Forest - Лес
-          North - Север
-          South - Юг
-          East - Восток
-          West - Запад
-          Plant - Растение
-          Tree - Дерево
-          Sky - Небо
-          Sun - Солнце
-          Cloud - Облако
+Природа
+"Природа",
+"Воздух",
+"Вода",
+"Река",
+"Море",
+"Озеро",
+"Лес",
+"Север",
+"Юг",
+"Восток",
+"Запад",
+"Растение",
+"Дерево",
+"Небо",
+"Солнце",
+"Облако"
 
-          География
-          Country - Страна
-          Land - Суша
-          Continent - Континент
-          Territory - Территория
+"Nature",
+"Air",
+"Water",
+"River",
+"Sea",
+"Lake",
+"Forest",
+"North",
+"South",
+"East",
+"West",
+"Plant",
+"Tree",
+"Sky",
+"Sun",
+"Cloud"
 
-          Животные
-          Animal - Животное
-          Bird - Птица
-          Fish - Рыба
+География
+"Страна",
+"Суша",
+"Континент",
+"Территория"
 
-          Растения
-          Flower - Цветок
+"Country",
+"Land",
+"Continent",
+"Territory"
 
-          Насекомые
-          Insect - Насекомое
 
-          Погода
-          Weather - Погода
-          Season - Сезон
-          Winter - Зима
-          Spring - Весна
-          Summer - Лето
-          Autumn - Осень
-          Temperature - Температура
-          Pressure - Давление
-          Rain - Дождь
-          Snow - Снег
-          Thunder - Гром
-          Lightning - Молния
-          Wind - Ветер
+Животные
+"Животное",
+"Птица",
+"Рыба"
 
-          Время
-          Time - Время
-          Century - Столетие, Век
-          Year - Год
-          Month - Месяц
-          Week - Неделя
-          Day - День
-          Hour - Час
-          Minute - Минута
-          Clock - Часы
-          Watch - Часы
-          Calendar - Календарь
-          Morning - Утро
-          Midday - Полдень
-          Noon - Полдень
-          Afternoon - Время После Обеда
-          Evening - Вечер
-          Night - Ночь
-          Present - Настоящее
-          Past - Прошлое
-          Future - Будущее
-          Beginning - Начало
-          End - Конец
-          Schedule - Расписание
-          Delay - Задержка
-          Holiday - Праздник /каникулы
-          Weekend - Выходные Дни
-          Vacation - Каникулы
+"Animal",
+"Bird",
+"Fish",
 
-          Человек
-          Human Being - Человек
-          Man - Мужчина
-          Woman - Женщина
-          Child - Ребенок
-          Girl - Девочка
-          Boy - Мальчик
-          Youth - Юность, Молодость
-          Grown-up - Взрослый (человек)
-          Nationality - Национальность
+Растения
+"Flower"
+"Цветок"
 
-          Анатомия
-          Body - Тело
-          Weight - Вес
-          Bone - Кость
-          Muscle - Мышцы
-          Blood - Кровь
-          Skin - Кожа
-          Hair - Волосы
-          Части Тела
-          Head - Голова
-          Neck - Шея
-          Chest - Грудь
-          Back - Спина
-          Stomach - Живот
-          Leg - Нога
-          Foot - Стопа
-          Arm - Рука
-          Hand - Кисть
-          Finger - Палец
-          Elbow - Локоть
-          Knee - Колено
-          Waist - Талия
-          Heel - Пятка
-          Nail - Ноготь
+Насекомые
+"Insect"
+"Насекомое"
 
-          Части Лица
-          Face - Лицо
-          Eye - Глаз
-          Ear - Ухо
-          Forehead - Лоб
-          Cheek - Щека
-          Mouth - Рот
-          Lip - Губа
-          Tooth - Зуб
-          Tongue - Язык
-          Nose - Нос
-          Eyebrow - Бровь
-          Eyelash - Ресница
-          Skull - Череп
-          Chin - Подбородок
-          Temple - Висок
+Погода
+"Погода",
+"Сезон",
+"Зима",
+"Весна",
+"Лето",
+"Осень",
+"Температура",
+"Давление",
+"Дождь",
+"Снег",
+"Гром",
+"Молния",
+"Ветер",
+"Weather",
+"Season",
+"Winter",
+"Spring",
+"Summer",
+"Autumn",
+"Temperature",
+"Pressure",
+"Rain",
+"Snow",
+"Thunder",
+"Lightning",
+"Wind",
 
-          Органы
-          Brain - Мозг
-          Lungs - Легкие
-          Heart - Сердце
-          Stomach - Желудок
-          Liver - Печень
-          Kidney - Почка
+Время
+"Время",
+"Столетие, Век",
+"Год",
+"Месяц",
+"Неделя",
+"День",
+"Час",
+"Минута",
+"Часы",
+"Часы",
+"Календарь",
+"Утро",
+"Полдень",
+"Полдень",
+"Время После Обеда",
+"Вечер",
+"Ночь",
+"Настоящее",
+"Прошлое",
+"Будущее",
+"Начало",
+"Конец",
+"Расписание",
+"Задержка",
+"Праздник /каникулы",
+"Выходные Дни",
+"Каникулы"
+
+"Time",
+"Century",
+"Year",
+"Month",
+"Week",
+"Day",
+"Hour",
+"Minute",
+"Clock",
+"Watch",
+"Calendar",
+"Morning",
+"Midday",
+"Noon",
+"Afternoon",
+"Evening",
+"Night",
+"Present",
+"Past",
+"Future",
+"Beginning",
+"End",
+"Schedule",
+"Delay",
+"Holiday",
+"Weekend",
+"Vacation"
+
+Человек
+"Человек",
+"Мужчина",
+"Женщина",
+"Ребенок",
+"Девочка",
+"Мальчик",
+"Юность, Молодость",
+"Взрослый (человек)",
+"Национальность"
+
+"HumanBeing",
+"Man",
+"Woman",
+"Child",
+"Girl",
+"Boy",
+"Youth",
+"Grown-up",
+"Nationality"
+
+Анатомия
+"Тело",
+"Вес",
+"Кость",
+"Мышцы",
+"Кровь",
+"Кожа",
+"Волосы"
+
+"Body",
+"Weight",
+"Bone",
+"Muscle",
+"Blood",
+"Skin",
+"Hair"
+
+Части Тела
+"Голова",
+"Шея",
+"Грудь",
+"Спина",
+"Живот",
+"Нога",
+"Стопа",
+"Рука",
+"Кисть",
+"Палец",
+"Локоть",
+"Колено",
+"Талия",
+"Пятка",
+"Ноготь"
+
+"Head",
+"Neck",
+"Chest",
+"Back",
+"Stomach",
+"Leg",
+"Foot",
+"Arm",
+"Hand",
+"Finger",
+"Elbow",
+"Knee",
+"Waist",
+"Heel",
+"Nail"
+
+Части Лица
+"Лицо",
+"Глаз",
+"Ухо",
+"Лоб",
+"Щека",
+"Рот",
+"Губа",
+"Зуб",
+"Язык",
+"Нос",
+"Бровь",
+"Ресница",
+"Череп",
+"Подбородок",
+"Висок"
+
+"Face",
+"Eye",
+"Ear",
+"Forehead",
+"Cheek",
+"Mouth",
+"Lip",
+"Tooth",
+"Tongue",
+"Nose",
+"Eyebrow",
+"Eyelash",
+"Skull",
+"Chin",
+"Temple"
+
+Органы
+"Мозг",
+"Легкие",
+"Сердце",
+"Желудок",
+"Печень",
+"Почка"
+
+"Brain",
+"Lungs",
+"Heart",
+"Stomach",
+"Liver",
+"Kidney"
 
 
           Семья
@@ -525,6 +651,7 @@
     }
   ],
 
+          Вокзал
           Railway Station - Железная Дорога
           Platform - Платформа
           Track - Путь
@@ -533,6 +660,7 @@
           Arrival - Прибытие
           Change - Пересадка
 
+          Аэропорт
           Airport - Аэропорт
           Plane - Самолет
           Check In - Регистрация
@@ -575,7 +703,7 @@
               }
             ],
 
-          Другое
+          Здоровье
           Health - Здоровье
           Hygiene - Гигиена
           Illness - Болезнь
@@ -587,13 +715,19 @@
           Wound - Рана
           Burn - Ожог
           Allergy - Аллергия
+
+          Магазин
           Shop - Магазин
           Goods - Товары
           Laundry - Прачечная
+
+          Гостиница
           Hotel - Гостиница
           Reservation - Бронирование
           Room - Номер
           Bill - Счет
+
+          Профессии
           Profession - Профессия
           Doctor - Врач
           Teacher - Учитель
@@ -601,7 +735,7 @@
           Businessman - Бизнесмен
           Engineer - Инженер
           Worker - Рабочий
-          Officer - Офицер, Полицейский
+          Officer - Офицер, полицейский
 
           Армия
           Soldier - Солдат
