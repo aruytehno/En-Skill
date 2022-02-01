@@ -1,14 +1,14 @@
-var roomNamesEn = ["kitchen", "bathroom", "hall", "living room", "toilet", "garage", "pantry", "closet", "guest room", "playroom", "workshop", "basement", "attic"];
-var roomNamesRu = ["кухня", "ванная", "коридор", "гостинная", "туалет", "гараж", "кладовка", "гардеробная", "гостевая", "игровая комната", "мастерская", "подвал", "чердак"];
+["кухня", "ванная", "коридор", "гостинная", "туалет", "гараж", "кладовка", "гардеробная", "гостевая", "игровая комната", "мастерская", "подвал", "чердак"];
+["kitchen", "bathroom", "hall", "living room", "toilet", "garage", "pantry", "closet", "guest room", "playroom", "workshop", "basement", "attic"];
 
-var baseWeatherEn = ["sunny", "raining", "snowing", "windy", "stormy", "hot", "cloudy", "tornado", "lightning", "warm", "cold"];
-var baseWeatherRu = ["солнечно", "дождливо", "снежно", "ветрено", "шторм", "жарко", "пасмурно", "торнадо", "гроза", "жарко", "холодно"];
+["солнечно", "дождливо", "снежно", "ветрено", "шторм", "жарко", "пасмурно", "торнадо", "гроза", "жарко", "холодно"];
+["sunny", "raining", "snowing", "windy", "stormy", "hot", "cloudy", "tornado", "lightning", "warm", "cold"];
 
-["father", "mother", "uncle", "brother", "sister", "cousin", "aunt", "grandmother", "grandfather", "son", "daughter", "adopted child"];
 ["отец", "мама", "дядя", "брат", "сестра", "кузин", "тетя", "бабушка", "дедушка", "сын", "дочь", "приёмный ребёнок"];
+["father", "mother", "uncle", "brother", "sister", "cousin", "aunt", "grandmother", "grandfather", "son", "daughter", "adopted child"];
 
-["baseball", "basketball", "football", "hockey", "volleyball", "rowing", "swimming", "boxing", "car racing", "golf"];
 ["бейсбол", "баскетбол", "футбол", "волейбол", "гребля", "плавание", "бокс", "гонки на машинах", "гольф"];
+["baseball", "basketball", "football", "hockey", "volleyball", "rowing", "swimming", "boxing", "car racing", "golf"];
 
    "sciences": [
      {
@@ -24,173 +24,164 @@ var baseWeatherRu = ["солнечно", "дождливо", "снежно", "в
     }
   ],
 
-["cow", "horse", "sheep", "cat", "dog", "pig", "mouse", "rat", "goat", "bull"];
 ["корова", "лошадь", "овца", "кошка", "собака", "свинья", "мышь", "крыса", "козел", "бык"]; 
+["cow", "horse", "sheep", "cat", "dog", "pig", "mouse", "rat", "goat", "bull"];
 
-["sweater", "pullover", "jacket", "jeans", "shorts", "socks", "dress", "trousers", "skirt", "top"]; 
 ["свитер", "пуловер", "куртка", "джинсы", "шорты", "носки", "платье", "брюки", "юбка", "топ"];
+["sweater", "pullover", "jacket", "jeans", "shorts", "socks", "dress", "trousers", "skirt", "top"]; 
  
-["apple", "banana", "kiwi", "lemon", "melon", "watermelon", "grapes", "pear", "pineapple", "peach"];
 ["яблоко", "банан", "киви", "лимон", "дыня", "арбуз", "виноград", "груша", "ананас", "персик"];
+["apple", "banana", "kiwi", "lemon", "melon", "watermelon", "grapes", "pear", "pineapple", "peach"];
  
-["blender", "TV", "laptop", "printer", "camera", "video camera", "music center", "oven", "toaster"];
 ["блендер", "телевизор", "ноутбук", "принтер", "камера", "видео камера", "музыкальный центр", "духовка", "тостер"];
+["blender", "TV", "laptop", "printer", "camera", "video camera", "music center", "oven", "toaster"];
  
-["tea", "coffee", "cocoa", "milk", "water", "mineral water", "coke", "juice", "cocktail", "kvass"];
 ["чай", "кофе", "какао", "молоко", "вода", "минеральная вода", "кола", "сок", "коктейль", "квас"];
+["tea", "coffee", "cocoa", "milk", "water", "mineral water", "coke", "juice", "cocktail", "kvass"];
 
-["in", "above", "over", "near", "at", "behind", "outside", "inside", "in front of", "beside"];
 ["в", "над", "выше", "рядом", "у", "сзади", "снаружи", "внутри", "снаружи у входа", "рядом"];
+["in", "above", "over", "near", "at", "behind", "outside", "inside", "in front of", "beside"];
 
-["brake", "bumper", "engine", "bonnet", "bulbs", "diesel", "fuel", "gear", "highway", "horn"];
 ["тормоз", "бампер", "двигатель", "капот", "лампы", "дизель", "топливо", "передача", "автострада", "сигнал"];
+["brake", "bumper", "engine", "bonnet", "bulbs", "diesel", "fuel", "gear", "highway", "horn"];
 
-["onion", "cucumber", "tomato", "garlic", "pepper", "carrot", "cabbage", "chili paper", "radish", "potato"];
 ["лук", "огурец", "томат", "чеснок", "перец", "морковь", "капуста", "острый перец", "редиска", "картофель"];
+["onion", "cucumber", "tomato", "garlic", "pepper", "carrot", "cabbage", "chili paper", "radish", "potato"];
 
-["hair", "stomach", "lips", "tooth", "skin", "bone", "face", "brain", "legs", "nose"];
 ["волосы", "желудок", "губы", "зубы", "кожа", "кость", "лицо", "мозг", "ноги", "нос"];
+["hair", "stomach", "lips", "tooth", "skin", "bone", "face", "brain", "legs", "nose"];
 
-["bank", "chemist’s", "bakery", "gallery", "building", "cafe", "stall", "bookshop", "zoo", "museum"];
 ["банк", "аптека", "пекарня", "галерея", "здание", "кафе", "киоск", "книжный магазин", "зоопарк", "музей"];
+["bank", "chemist’s", "bakery", "gallery", "building", "cafe", "stall", "bookshop", "zoo", "museum"];
 
-["hair", "stomach", "lips", "tooth", "skin", "bone", "face", "brain", "legs", "nose"];
 ["волосы", "желудок", "губы", "зубы", "кожа", "кость", "лицо", "мозг", "ноги", "нос"];
+["hair", "stomach", "lips", "tooth", "skin", "bone", "face", "brain", "legs", "nose"];
 
-["cartoon", "animator", "adventure film", "captions", "comedy", "crime film", "drama", "episode", "film", "horror"];
 ["мультфильм", "аниматор", "приключенческий фильм", "субтитры", "комедия", "криминальный фильм", "драма", "эпизод", "фильм", "хоррор"];
+["cartoon", "animator", "adventure film", "captions", "comedy", "crime film", "drama", "episode", "film", "horror"];
 
-["browser", "computer mouse", "computer desk", "available", "keyboard", "to log out", "link", "monitor", "network", "player"];
 ["браузер", "компьютерная мышка", "компьютерный стол", "доступный", "клавиатура", "входить", "ссылка", "монитор", "учётная запись", "игрок"]; 
+["browser", "computer mouse", "computer desk", "available", "keyboard", "to log out", "link", "monitor", "network", "player"];
 
-["bow", "compose", "concert", "guitar", "musician", "piano", "song", "synthesizer", "violin", "organ"];
 ["смычок", "композитор", "концерт", "музыкант", "пианино", "песня", "синтезатор", "виолончель", "орган"];
+["bow", "compose", "concert", "guitar", "musician", "piano", "song", "synthesizer", "violin", "organ"];
 
-["parking", "bus", "breakdown", "transit", "dust car", "bulldozer", "station", "metro", "taxi", "truck"];
 ["паркинг", "автобус", "авария", "транзит", "мусорная машина", "бульдозер", "станция", "метро", "такси", "грузовик"];
+["parking", "bus", "breakdown", "transit", "dust car", "bulldozer", "station", "metro", "taxi", "truck"];
 
-["aloe", "rose", "carnation", "gladiolus", "reed", "water lily", "lavender", "lily", "poppy", "mimosa"];
 ["алое", "роза", "гвоздика", "гладиолус", "камыш", "кувшинка", "лаванда", "лилия", "мак", "мимоза"];
+["aloe", "rose", "carnation", "gladiolus", "reed", "water lily", "lavender", "lily", "poppy", "mimosa"];
 
-["visa", "ticket", "hotel", "map", "ship", "resort", "rest", "tent", "train", "capital"];
 ["виза", "билет", "гостиница", "карта", "корабль", "курорт", "отдых", "палатка", "поезд", "столица"];
+["visa", "ticket", "hotel", "map", "ship", "resort", "rest", "tent", "train", "capital"];
 
-["baker", "author", "butcher", "doctor", "cleaner", "farmer", "designer", "fisherman", "florist", "judge"];
 ["пекарь", "автор", "мясник", "доктор", "уборщик", "фермер", "дизайнер", "рыбак", "флорист", "судья"];
+["baker", "author", "butcher", "doctor", "cleaner", "farmer", "designer", "fisherman", "florist", "judge"];
 
-["portion", "stuff", "bench", "aquarium", "buffet", "couch", "hammock", "locker", "mirror", "pad"];
 ["приданное", "вещи", "скамейка", "аквариум", "буфет", "кушетка", "гамак", "комод", "зеркало", "пуфик"];
+["portion", "stuff", "bench", "aquarium", "buffet", "couch", "hammock", "locker", "mirror", "pad"];
  
-["whistle", "out", "the ball", "a goal", "victory", "a wall", "the net", "the flag", "a draw", "no goal"];
 ["свисток", "аут", "мяч", "гол", "победа", "стенка", "сетка", "флажок", "ничья", "нет гола"];
+["whistle", "out", "the ball", "a goal", "victory", "a wall", "the net", "the flag", "a draw", "no goal"];
 
-["diamond", "atom", "isotope", "matter", "granite", "ions", "quartz", "oxygen", "crystal", "metal"];
 ["алмаз", "атом", "изотоп", "вещество", "гранит", "ионы", "кварц", "кислород", "кристалл", "метал"];
+["diamond", "atom", "isotope", "matter", "granite", "ions", "quartz", "oxygen", "crystal", "metal"];
 
-["discount", "suite room", "all inclusive", "pay for services", "pay cash", "available", "cater", "single room", "junior suite", "make a reservation for a room"];
 ["скидка", "номер люкс", "все включено", "оплатить услуги", "расплатиться наличными", "в наличии", "обслуживать", "одноместный номер", "полулюкс", "забронировать гостиничный номер"];
+["discount", "suite room", "all inclusive", "pay for services", "pay cash", "available", "cater", "single room", "junior suite", "make a reservation for a room"];
 
-["acacia", "baobab", "birch", "beech", "elm", "walnut", "pear tree", "oak", "spruce", "willow"];
 ["акация", "баобаб", "береза", "бук", "вяз", "грецкий орех", "грушевое дерево", "дуб", "ель", "ива"];
+["acacia", "baobab", "birch", "beech", "elm", "walnut", "pear tree", "oak", "spruce", "willow"];
 
-["Abkhazia", "Afghanistan", "Albania", "Algeria", "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas"];
 ["Абхазия", "Афганистан", "Албания", "Алжир", "Аргентина", "Армения", "Австралия", "Австрия", "Азербайджан", "Багамские острова"];
+["Abkhazia", "Afghanistan", "Albania", "Algeria", "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas"];
 
-["active", "reckless", "furious", "proud", "humane", "kind", "greedy", "acrimonious", "cruel", "envious"];
 ["активный", "безумный", "бешеный", "гордый", "гуманный", "добрый", "жадный", "желчный", "жестокий", "завистливый"];
+["active", "reckless", "furious", "proud", "humane", "kind", "greedy", "acrimonious", "cruel", "envious"];
 
-["birchbark", "ornate", "embroidery", "headwear", "icon", "durability", "suede", "silver work", "glassware", "crystalware"];
-["береста", "богато украшенный", "вышивка", "головной убор", "иконка", "долговечность", "замша", "изделия из серебра", "изделия из стекла", "изделия из хрусталя"];
-
-["acid rain", "air", "alkalinity", "atmosphere", "be threatened with extinction", "biodegradability", "biosphere", "blizzard", "bog", "burdock"]; 
-["кислотный дождь", "воздух", "щелочность", "атмосфера", "быть под угрозой вымирания", "способность к биологическому распаду", "биосфера", "вьюга", "болото", "репейник"];
- 
-["letter of credit", "trade surplus", "assets", "stock company", "equity capital", "stock", "depreciation", "balance sheet", "ATM, cash machine", "grant"]; 
-["аккредитив", "активный торговый баланс", "активы", "акционерное общество", "акционерный капитал", "акция", "амортизация", "балансовый отчет", "банкомат", "безвозмездная субсидия"];
-
-["size", "small", "big", "medium", "little", "large", "huge", "long", "short", "wide"]; 
 ["размер", "маленький", "большой", "средний", "маленький", "большой", "огромный", "длинный", "короткий", "широкий"];
+["size", "small", "big", "medium", "little", "large", "huge", "long", "short", "wide"]; 
 
-["insect", "mosquito", "flea", "firefly", "moth", "dragonfly", "spider", "ladybug", "wasp", "tick"]; 
 ["насекомое", "комар", "блоха", "светлячок", "моль", "стрекоза", "паук", "божья коровка", "оса", "клещ"];
+["insect", "mosquito", "flea", "firefly", "moth", "dragonfly", "spider", "ladybug", "wasp", "tick"]; 
 
-["airport", "airplane", "wing", "tail", "cockpit", "cabin", "fuselage", "undercarriage", "lavatory", "window"]; 
 ["аэропорт", "самолет", "крыло", "хвост", "кабина", "салон", "корпус, фюзеляж", "шасси", "туалет", "окно"];
+["airport", "airplane", "wing", "tail", "cockpit", "cabin", "fuselage", "undercarriage", "lavatory", "window"]; 
  
-["space", "planet", "star", "Sun", "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]; 
 ["пространство; космос", "планета", "звезда", "солнце", "меркурий", "венера", "земля", "марс", "юпитер", "сатурн"];
+["space", "planet", "star", "Sun", "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]; 
 
-["sea", "ocean", "abyss", "coral", "seal", "crocodile", "alligator", "fish", "trout", "bass"]; 
 ["море", "океан", "бездна", "коралл", "тюлень", "крокодил", "аллигатор", "рыба", "форель", "окунь"]; 
+["sea", "ocean", "abyss", "coral", "seal", "crocodile", "alligator", "fish", "trout", "bass"]; 
 
-["reptile", "crocodile", "alligator", "tortoise", "lizard", "goanna", "iguana", "tadpole", "frog", "salamander"]; 
 ["рептилия", "крокодил", "аллигатор", "черепаха", "ящерица", "варан", " игуана", "головастик", "лягушка", "саламандра"];
+["reptile", "crocodile", "alligator", "tortoise", "lizard", "goanna", "iguana", "tadpole", "frog", "salamander"]; 
 
-["bored", "shocked", "hopeful", "excited", "lonely", "nervous", "sad", "hungry", "tired", "sleepy"];
 ["скучающий", "шокированный", "надеющийся", "взволнованный", "одинокий", "нервный", "грустный", "голодный", "уставший", "сонный"];
+["bored", "shocked", "hopeful", "excited", "lonely", "nervous", "sad", "hungry", "tired", "sleepy"];
 
-["berry", "blackberry", "barberry", "cowberry", "cherry", "strawberry", "cranberry", "raspberry", "gooseberry", "blueberry"];
 ["ягода", "ежевика", "барбарис", "брусника", "вишня", "клубника", "клюква", "малина", "крыжовник", "голубика"];
+["berry", "blackberry", "barberry", "cowberry", "cherry", "strawberry", "cranberry", "raspberry", "gooseberry", "blueberry"];
 
-["pen", "pencil", "paper", "stapler", "eraser", "marker", "glue", "notepad", "ruler", "file"];
 ["ручка", "карандаш", "листок", "степлер", "стёрка", "маркер", "клей", "блокнот", "линейка", "файл"];
+["pen", "pencil", "paper", "stapler", "eraser", "marker", "glue", "notepad", "ruler", "file"];
 
-["waterfall", "rain", "lightning", "rainbow", "ice", "flood", "storm", "cloud", "thunder", "dew"];
 ["водопад", "дождь", "молния", "радуга", "лёд", "наводнение", "шторм", "облако", "гром", "роса"];
+["waterfall", "rain", "lightning", "rainbow", "ice", "flood", "storm", "cloud", "thunder", "dew"];
 
-["plate", "cup", "mug", "bowl", "fork", "lid", "ladle", "jug", "kettle", "coffeepot"];
 ["тарелка", "чашка", "кружка", "миска", "вилка", "крышка", "черпак", "кувшин", "чайник", "кофейник"];
+["plate", "cup", "mug", "bowl", "fork", "lid", "ladle", "jug", "kettle", "coffeepot"];
 
-["dining room", "buffet", "china", "bowl", "salad bowl", "tablecloth", "saltshaker", "peppershaker", "teapot", "sugar bowl"]; 
 ["столовая", "буфет", "фарфор", "чаша", "салатница", "скатерть", "солонка", "перечница", "чайник", "сахарница"];
+["dining room", "buffet", "china", "bowl", "salad bowl", "tablecloth", "saltshaker", "peppershaker", "teapot", "sugar bowl"]; 
 
-["hygiene", "care", "toothbrush", "toothpaste", "soap", "comb", "razor", "shaving cream", "scissors", "tweezers"]; 
 ["гигиена", "уход", "зубная щётка", "зубная паста", "мыло", "расчёска", "бритва, брить", "крем для бритья", "ножницы", "пинцет, щипчики"];
+["hygiene", "care", "toothbrush", "toothpaste", "soap", "comb", "razor", "shaving cream", "scissors", "tweezers"]; 
 
-["aquamarine", "beige", "white", "turquoise", "pale", "bronze", "yellow", "pearl", "green", "goldenrod"]; 
 ["аквамарин", "бежевый", "белый", "бирюзовый", "бледный", "бронзовый", "желтый", "жемчужный", "зеленый", "золотистый"];
+["aquamarine", "beige", "white", "turquoise", "pale", "bronze", "yellow", "pearl", "green", "goldenrod"]; 
 
-["time", "past", "future", "present", "age", "millenium", "century", "decade", "year", "month"]; 
 ["время", "прошлое", "будущее", "настоящее", "эра", "тысячелетие", "век", "десятилетие", "год", "месяц"];
+["time", "past", "future", "present", "age", "millenium", "century", "decade", "year", "month"]; 
 
-["action", "walk", "run", "march", "tiptoe", "crawl", "drag", "skip", "push", "leap"]; 
 ["действие", "идти, ходить", "бежать, бегать", "маршировать", "ходить на цыпочках", "ползать", "тянуть, тащить", "прыгать, скакать", "толкать; пихать", "прыжок, скачок"];
+["action", "walk", "run", "march", "tiptoe", "crawl", "drag", "skip", "push", "leap"]; 
 
-["housekeeping", "broom", "sweep", "dustpan", "vacuum cleaner", "iron", "ironing board", "mop", "rag", "wipe"]; 
 ["уборка", "веник, метла", "подметать, мести", "совок для мусора", "пылесос", "утюг", "гладильная доска", "швабра", "тряпка", "протирать, мыть"];
+["housekeeping", "broom", "sweep", "dustpan", "vacuum cleaner", "iron", "ironing board", "mop", "rag", "wipe"]; 
 
-["cooking", "bake", "boil", "fry", "peel", "slice", "grate", "pour", "mix", "knead"]; 
 ["кулинария, готовка", "печь, выпекать", "варить", "жарить", "снимать кожуру", "резать ломтиками", "тереть на терке", "наливать", "смешивать", "замешивать"];
+["cooking", "bake", "boil", "fry", "peel", "slice", "grate", "pour", "mix", "knead"]; 
 
-["sleep", "dress", "wake up", "eat", "drink", "feed", "cook", "taste", "spend", "freeze"]; 
 ["спать", "одевать (-ся)", "будить", "есть", "пить", "кормить", "готовить пищу", "пробовать на вкус", "проводить", "замораживать"];
+["sleep", "dress", "wake up", "eat", "drink", "feed", "cook", "taste", "spend", "freeze"]; 
 
-["be", "have", "do", "say", "go", "get", "make", "know", "think", "take"]; 
 ["быть", "иметь", "делать", "говорить", "идти", "получать", "делать", "знать", "думать", "брать"];
+["be", "have", "do", "say", "go", "get", "make", "know", "think", "take"]; 
 
-["see", "come", "want", "use", "find", "give", "tell", "work", "call", "try"]; 
 ["видеть", "приходить", "хотеть", "использовать", "находить", "давать", "рассказывать", "работать", "звонить", "пытаться"];
+["see", "come", "want", "use", "find", "give", "tell", "work", "call", "try"]; 
 
-["seem", "help", "show", "hear", "play", "run", "move", "live", "believe", "bring"]; 
 ["казаться", "помогать", "показывать", "слышать", "играть", "бежать", "двигаться", "жить", "верить", "приносить"];
+["seem", "help", "show", "hear", "play", "run", "move", "live", "believe", "bring"]; 
 
-["happen", "write", "sit", "stand", "lose", "pay", "meet", "include", "continue", "set"]; 
 ["случаться", "писать", "сидеть", "стоять", "терять", "платить", "встречать", "включать", "продолжать", "устанавливать"];
+["happen", "write", "sit", "stand", "lose", "pay", "meet", "include", "continue", "set"]; 
 
-["learn", "change", "lead", "understand", "watch", "follow", "stop", "create", "speak", "read"]; 
 ["учить", "менять", "вести", "понимать", "смотреть", "следовать", "останавливать", "создавать", "говорить", "читать"];
+["learn", "change", "lead", "understand", "watch", "follow", "stop", "create", "speak", "read"]; 
 
-["spend", "grow", "open", "walk", "win", "teach", "offer", "remember", "consider", "appear"]; 
 ["тратить", "расти", "открывать", "идти", "побеждать", "учить", "предлагать", "помнить", "считать", "появляться"];
+["spend", "grow", "open", "walk", "win", "teach", "offer", "remember", "consider", "appear"]; 
 
-["buy", "serve", "die", "send", "build", "stay", "fall", "cut", "reach", "kill"]; 
 ["покупать", "служить", "умирать", "посылать", "строить", "оставаться", "падать", "резать", "достигать", "убивать"];
+["buy", "serve", "die", "send", "build", "stay", "fall", "cut", "reach", "kill"]; 
 
+["поднимать", "миновать", "продавать", "решать", "возвращаться", "объяснять", "надеяться", "развивать", "везти; нести", "ломать"];
 ["raise", "pass", "sell", "decide", "return", "explain", "hope", "develop", "carry", "break"]; 
-["поднимать", "миновать", "продавать", "решать", "возвращаться", "объяснять", "надеяться", "развивать", "везти; нести", "ломать"];
 
-["receive", "agree", "support", "hit", "produce", "eat", "cover", "catch", "draw", "choose"]; 
 ["получать", "соглашаться", "поддерживать", "ударять", "производить", "есть", "покрывать", "ловить", "рисовать", "выбирать"];
+["receive", "agree", "support", "hit", "produce", "eat", "cover", "catch", "draw", "choose"]; 
 
-["raise", "pass", "sell", "decide", "return", "explain", "hope", "develop", "carry", "break"];  
 ["поднимать", "миновать", "продавать", "решать", "возвращаться", "объяснять", "надеяться", "развивать", "везти; нести", "ломать"];
+["raise", "pass", "sell", "decide", "return", "explain", "hope", "develop", "carry", "break"];  
