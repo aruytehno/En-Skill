@@ -90,5 +90,364 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Распределить",
+    "link": "Distribute",
+    "keyName": "distribute",
+    "submenu": [
+      {
+        "title": "Глаголы",
+        "link": "verbs",
+        "keyName": "verbs",
+        "submenu": [
+          {
+            "title": "Глаголы движения",
+            "link": "verbsOfMovement"
+          },
+          {
+            "title": "Глаголы наличия",
+            "link": "verbsOfPresence"
+          },
+          {
+            "title": "Глаголы положения",
+            "link": "verbsOfState"
+          },
+          {
+            "title": "Бытовые глаголы",
+            "link": "verbsOfHousehold"
+          },
+          {
+            "title": "Глаголы чувства",
+            "link": "verbsOfFeelings"
+          },
+          {
+            "title": "Глаголы мышления",
+            "link": "verbsOfThinking"
+          },
+          {
+            "title": "Рабочие операции",
+            "link": "verbsOfWorkingOperations"
+          },
+          {
+            "title": "Глаголы общения",
+            "link": "verbsOfCommunication"
+          },
+          {
+            "title": "Глаголы противостояния",
+            "link": "verbsOfOpposition"
+          }
+        ]
+      },
+      {
+        "title": "Прилагательные",
+        "link": "adjectives",
+        "keyName": "adjectives",
+        "submenu": [
+          {
+            "title": "Цвет",
+            "link": "colors"
+          },
+          {
+            "title": "Размер",
+            "link": "size"
+          },
+          {
+            "title": "Форма",
+            "link": "form"
+          },
+          {
+            "title": "Температура",
+            "link": "temperature"
+          },
+          {
+            "title": "Влажность",
+            "link": "humidity"
+          },
+          {
+            "title": "На вкyc",
+            "link": "taste"
+          },
+          {
+            "title": "На слyx",
+            "link": "aurally"
+          },
+          {
+            "title": "На запах",
+            "link": "smell"
+          },
+          {
+            "title": "Характеристики",
+            "link": "specifications"
+          },
+          {
+            "title": "Стадии",
+            "link": "stages"
+          },
+          {
+            "title": "Характер действия/частота",
+            "link": "natureOfAction"
+          },
+          {
+            "title": "Настроение",
+            "link": "mood"
+          },
+          {
+            "title": "Оценка и описание чего-то/кого-то",
+            "link": "evaluationAndDescriptionOfSomething"
+          },
+          {
+            "title": "Моральные качества",
+            "link": "moralQualities"
+          },
+          {
+            "title": "О человеке",
+            "link": "aboutAHuman"
+          },
+          {
+            "title": "Качество",
+            "link": "quality"
+          },
+          {
+            "title": "Категории",
+            "link": "categories"
+          },
+          {
+            "title": "Соответствие",
+            "link": "conformity"
+          },
+          {
+            "title": "Здоровье",
+            "link": "healthStatus"
+          },
+          {
+            "title": "Материальное положение",
+            "link": "financialSituation"
+          },
+          {
+            "title": "Другое",
+            "link": "other"
+          }
+        ]
+      },
+      {
+        "title": "Наречия",
+        "link": "adverbs",
+        "keyName": "adverbs",
+        "submenu": [
+          {
+            "title": "Вопросительные",
+            "link": "interrogativePronouns"
+          },
+          {
+            "title": "Места",
+            "link": "places"
+          },
+          {
+            "title": "Направления",
+            "link": "directions"
+          },
+          {
+            "title": "Времени",
+            "link": "pronounsOfTime"
+          },
+          {
+            "title": "Повторения и частотности",
+            "link": "repetitionsAndFrequencies"
+          },
+          {
+            "title": "Наречия для соединения предложений",
+            "link": "adverbsToConnectSentences"
+          }
+        ]
+      },
+      {
+        "title": "Существительные",
+        "link": "nouns",
+        "keyName": "nouns",
+        "submenu": [
+          {
+            "title": "Дни недели",
+            "link": "days"
+          },
+          {
+            "title": "Науки",
+            "link": "sciences"
+          },
+          {
+            "title": "Месяцы года",
+            "link": "months"
+          },
+          {
+            "title": "Планеты солнечной системы",
+            "link": "planetsOfTheSolarSystem"
+          },
+          {
+            "title": "Знаки зодиака",
+            "link": "zodiacSigns"
+          },
+          {
+            "title": "Природа",
+            "link": "nature"
+          },
+          {
+            "title": "География",
+            "link": "geography"
+          },
+          {
+            "title": "Животные",
+            "link": "animal"
+          },
+          {
+            "title": "Растения",
+            "link": "plants"
+          },
+          {
+            "title": "Насекомые",
+            "link": "insects"
+          },
+          {
+            "title": "Погода",
+            "link": "weather"
+          },
+          {
+            "title": "Время",
+            "link": "time"
+          },
+          {
+            "title": "Человек",
+            "link": "human"
+          },
+          {
+            "title": "Анатомия",
+            "link": "anatomy"
+          },
+          {
+            "title": "Части тела",
+            "link": "bodyParts"
+          },
+          {
+            "title": "Части лица",
+            "link": "partsOfTheFace"
+          },
+          {
+            "title": "Органы",
+            "link": "organs"
+          },
+          {
+            "title": "Семья",
+            "link": "family"
+          },
+          {
+            "title": "Родственники",
+            "link": "relatives"
+          },
+          {
+            "title": "Связи",
+            "link": "connections"
+          },
+          {
+            "title": "Жилье",
+            "link": "housing"
+          },
+          {
+            "title": "Устройство дома",
+            "link": "houseParts"
+          },
+          {
+            "title": "Комнаты",
+            "link": "rooms"
+          },
+          {
+            "title": "Мебель",
+            "link": "furniture"
+          },
+          {
+            "title": "Бытовые приборы",
+            "link": "appliances"
+          },
+          {
+            "title": "Прием пищи",
+            "link": "meal"
+          },
+          {
+            "title": "Напитки",
+            "link": "drinks"
+          },
+          {
+            "title": "Сладости",
+            "link": "sweets"
+          },
+          {
+            "title": "Продукты питания",
+            "link": "food"
+          },
+          {
+            "title": "Эмоции",
+            "link": "emotions"
+          },
+          {
+            "title": "Другое",
+            "link": "theSenses"
+          },
+          {
+            "title": "Информация",
+            "link": "information"
+          },
+          {
+            "title": "Язык",
+            "link": "language"
+          },
+          {
+            "title": "Цель высказывания",
+            "link": "thePurposeOfTheStatement"
+          },
+          {
+            "title": "Этикет",
+            "link": "etiquette"
+          },
+          {
+            "title": "Город",
+            "link": "city"
+          },
+          {
+            "title": "Транспорт",
+            "link": "urbanTransport"
+          },
+          {
+            "title": "Объекты города",
+            "link": "railwayStation"
+          },
+          {
+            "title": "Аэропорт",
+            "link": "airport"
+          },
+          {
+            "title": "Городские объекты",
+            "link": "cityObjects"
+          },
+          {
+            "title": "Здоровье",
+            "link": "health"
+          },
+          {
+            "title": "Магазин",
+            "link": "shop"
+          },
+          {
+            "title": "Отель",
+            "link": "hotel"
+          },
+          {
+            "title": "Профессии",
+            "link": "profession"
+          },
+          {
+            "title": "Армия",
+            "link": "army"
+          }
+        ]
+      }
+    ]
   }
 ]
