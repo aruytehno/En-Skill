@@ -1,4 +1,3 @@
-# [Enskill](https://aruytehno.github.io/enskill/)
 ![Alt text](/img/label.png)
 
 ## Разделы сайта:
